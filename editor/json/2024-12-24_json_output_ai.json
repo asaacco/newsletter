@@ -1,0 +1,89 @@
+{
+  "AI_소식": [
+    {
+      "id": 1,
+      "title": "(토마토칼럼)'모두의 AGI'가 되기 위한 조건",
+      "media_name": "뉴스토마토",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1248831&inflow=N",
+      "additional_source": null,
+      "new_summary_with_insight": "오픈AI의 생성형 인공지능(AGI) 기술이 일상에 점점 더 깊숙이 침투하고 있습니다. 오픈AI가 주최한 온라인 행사를 통해 공개된 동영상 AI '소라'와 검색 AI '챗GPT 서치'는 이러한 기술의 발전 방향을 보여줍니다. 이러한 기술의 발전은 앞으로의 AI 시장에서 중요한 역할을 할 것으로 기대됩니다.",
+      "date": "2024-12-24"
+    },
+    {
+      "id": 2,
+      "title": "[AI신약 임상]① 인공지능 신약개발, 선점 노리는 글로벌 대표 주자들",
+      "media_name": "이데일리",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01079126639121800",
+      "additional_source": null,
+      "new_summary_with_insight": "인공지능(AI)은 신약 개발의 효율성을 크게 향상시킬 수 있는 잠재력을 지니고 있습니다. AI를 활용하면 개발 기간을 단축하고 비용을 절감할 수 있어, 글로벌 제약회사들이 이를 적극적으로 도입하고 있습니다. 이러한 트렌드는 AI가 의료 분야에서 혁신을 이끌어낼 수 있음을 보여줍니다.",
+      "date": "2024-12-24"
+    },
+    {
+      "id": 3,
+      "title": "NH아문디운용, 'HANARO 생성형AI 액티브' 1년 수익률 90% 돌파",
+      "media_name": "이데일리",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01443206639121472",
+      "additional_source": "http://www.g-enews.com/ko-kr/news/article/news_all/202412231041022650edf69f862c_1/article.html",
+      "new_summary_with_insight": "NH아문디자산운용의 'HANARO 글로벌생성형AI 액티브' ETF가 1년 수익률 90%를 돌파하며 금융 시장에서 주목받고 있습니다. 이는 AI 기술에 대한 높은 관심과 기대를 반영하는 결과로, AI 관련 금융 상품의 성공 가능성을 보여줍니다. 앞으로도 이러한 추세는 지속될 것으로 보입니다.",
+      "date": "2024-12-24"
+    },
+    {
+      "id": 4,
+      "title": "김명훈 율촌 변리사, '인공지능 법과 윤리' 출간",
+      "media_name": "이데일리",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02263206639121472",
+      "additional_source": "https://www.ajunews.com/view/20241223112622938",
+      "new_summary_with_insight": "김명훈 변리사가 인공지능(AI)의 법적, 윤리적 문제를 쉽게 설명한 책 '인공지능 법과 윤리'를 출간했습니다. 이 책은 AI 기술의 복잡한 측면과 그로 인한 법적, 윤리적 쟁점을 이해하기 쉽게 풀어내어 독자들의 이해를 돕고자 합니다. 이는 AI 시대에 필요한 법적, 윤리적 이해를 심화시키는 데 기여할 것입니다.",
+      "date": "2024-12-24"
+    },
+    {
+      "id": 5,
+      "title": "풀무원, 생성형 AI 인사 챗봇 '두리번' 오픈...혁신적 디지털 경험 제공",
+      "media_name": "전자신문",
+      "link": "https://www.etnews.com/20241223000163",
+      "additional_source": "https://www.viva100.com/article/20241223500056",
+      "new_summary_with_insight": "풀무원이 생성형 AI 기반의 인사 챗봇 '두리번'을 오픈하였습니다. 이 챗봇은 직원들이 HR 관련 질문에 대한 답변을 빠르고 정확하게 제공하여, 조직 내 디지털 경험을 혁신적으로 향상시킬 것으로 기대됩니다. 이는 기업의 HR 관리 효율성을 높이는 데 큰 기여를 할 것입니다.",
+      "date": "2024-12-24"
+    }
+  ],
+  "메타버스_소식": [
+    {
+      "id": 1,
+      "title": "[DBR]“‘4칙 연산’ 전략으로 한국의 확장현실 도약 주도”",
+      "media_name": "동아일보",
+      "link": "https://www.donga.com/news/Economy/article/all/20241222/130691662/2",
+      "additional_source": null,
+      "new_summary_with_insight": "확장현실(XR) 기술은 가상현실(VR), 증강현실(AR), 혼합현실(MR)을 포괄하는 것으로, 한국이 이 분야에서 도약을 준비하고 있습니다. XR 기술은 산업 전반에 걸쳐 혁신을 불러일으킬 수 있는 잠재력을 가지고 있으며, 이를 통해 한국은 글로벌 시장에서 경쟁력을 강화할 수 있을 것입니다. 이러한 기술 발전은 미래의 디지털 경험을 크게 변화시킬 것입니다.",
+      "date": "2024-12-24"
+    }
+  ],
+  "로봇_소식": [
+    {
+      "id": 1,
+      "title": "레인보우로보틱스, 차세대 '의료용 로봇' 개발 나선다",
+      "media_name": "이데일리",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01456326639121472",
+      "additional_source": "https://www.etnews.com/20241223000128",
+      "new_summary_with_insight": "레인보우로보틱스가 이롭과 협력하여 차세대 의료용 로봇 개발에 나섰습니다. 이 협력은 미충족 의료 수요를 충족시키기 위한 목적으로, 더욱 정밀하고 효율적인 수술을 가능하게 할 것입니다. 이러한 기술 개발은 의료 분야에서 로봇의 활용을 확대하는 중요한 계기가 될 것입니다.",
+      "date": "2024-12-24"
+    },
+    {
+      "id": 2,
+      "title": "쿠쿠, 파워클론 로봇청소기 AI 출시",
+      "media_name": "이데일리",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02174646639121800",
+      "additional_source": "https://zdnet.co.kr/view/?no=20241224105803",
+      "new_summary_with_insight": "쿠쿠가 AI 기술을 활용한 '파워클론 로봇청소기 AI'를 출시했습니다. 이 로봇청소기는 AI 카메라 센서와 다양한 기능을 통해 효율적인 청소를 제공하며, 스마트홈 환경에서의 편리함을 한층 더 높일 것입니다. 이러한 기술은 가정 내 일상적인 작업을 자동화하는 데 큰 기여를 할 것입니다.",
+      "date": "2024-12-24"
+    },
+    {
+      "id": 3,
+      "title": "브릴스, 대구 수성알파시티 R&D센터 설립…\"로봇 혁신 가속\"",
+      "media_name": "이데일리",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03522726639121472",
+      "additional_source": "https://zdnet.co.kr/view/?no=20241223183628",
+      "new_summary_with_insight": "브릴스가 대구에 로봇 연구개발 센터를 설립하여 로봇 기술 혁신에 박차를 가하고 있습니다. 이 센터는 중소기업의 생산력 향상을 지원하기 위한 다양한 로봇 기술 개발에 중점을 두고 있습니다. 이러한 투자는 지역 경제 활성화와 일자리 창출에도 긍정적인 영향을 미칠 것입니다.",
+      "date": "2024-12-24"
+    }
+  ]
+}

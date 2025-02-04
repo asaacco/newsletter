@@ -1,0 +1,13 @@
+python-dotenv
+selenium
+webdriver-manager
+pandas
+pyvirtualdisplay
+beautifulsoup4
+chromedriver-autoinstaller
+pyautogui
+pyperclip
+lxml
+openai
+google-auth
+google-api-python-client

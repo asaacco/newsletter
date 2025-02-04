@@ -1,0 +1,56 @@
+{
+  "AI_소식": [
+    {
+      "id": 1,
+      "title": "소프트뱅크·오픈AI, 일본서 AI 네트워크…500개 기업에 참여 요청",
+      "media_name": "한국경제언론사 선정",
+      "link": "https://www.hankyung.com/article/202502028110i",
+      "additional_source": null,
+      "new_summary_with_insight": "소프트뱅크와 오픈AI가 일본의 AI 인프라 정비를 위해 협력하고, 500개 이상의 기업에 기술 협력을 요청했습니다. 이는 일본 전역에 AI 데이터센터와 발전 시설을 건설하는 프로젝트의 일환입니다. 글로벌 AI 주도권 경쟁이 심화되는 가운데, 일본의 전략적 행보가 주목됩니다.",
+      "date": "2025-02-02"
+    },
+    {
+      "id": 2,
+      "title": "오픈AI, 새 AI 추론 모델 'o3 미니' 공개… \"딥시크 성능 능가\"",
+      "media_name": "IT조선",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092133241",
+      "additional_source": [
+        "https://zdnet.co.kr/view/?no=20250202034725",
+        "https://zdnet.co.kr/view/?no=20250201173730",
+        "http://www.g-enews.com/ko-kr/news/article/news_all/202502021947127519fbbec65dfb_1/article.html"
+      ],
+      "new_summary_with_insight": "오픈AI는 새로운 AI 추론 모델 'o3 미니'를 공개하며, 중국 딥시크의 성능을 능가한다고 주장했습니다. 이 모델은 고속 처리와 경제성을 겸비해 업계의 주목을 받고 있습니다. AI 기술 경쟁이 새로운 국면으로 접어들고 있습니다.",
+      "date": "2025-02-02"
+    },
+    {
+      "id": 3,
+      "title": "딥시크 같은 기업, 중국엔 4000개 있다…충격의 中 AI 실력 [팩플]",
+      "media_name": "중앙일보언론사 선정",
+      "link": "https://www.joongang.co.kr/article/25311063",
+      "additional_source": null,
+      "new_summary_with_insight": "중국의 AI 기업 딥시크가 급부상하면서, 중국 내 유사한 기업이 4000개에 달한다는 분석이 나왔습니다. 이는 글로벌 AI 시장에서 중국의 영향력이 커지고 있음을 보여줍니다. AI 패권 경쟁이 더욱 치열해질 전망입니다.",
+      "date": "2025-02-02"
+    },
+    {
+      "id": 4,
+      "title": "美방송 “北, 구글AI 활용해 주한미군 작전 정보 탐색 시도”",
+      "media_name": "중앙일보",
+      "link": "https://www.joongang.co.kr/article/25310942",
+      "additional_source": "https://magazine.hankyung.com/business/article/202502016742b",
+      "new_summary_with_insight": "북한 해커들이 구글의 인공지능 '제미나이'를 활용해 주한미군 작전 정보를 탐색하고 있는 것으로 알려졌습니다. 이는 AI 기술이 군사적 목적으로도 사용될 수 있음을 시사합니다. 국가 안보 측면에서 AI의 역할이 더욱 중요해지고 있습니다.",
+      "date": "2025-02-02"
+    },
+    {
+      "id": 5,
+      "title": "안철수 “20조원 규모 AI·민생 추경 추진하자”",
+      "media_name": "조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2025/02/02/KPLQHYJLUVH7DPTO4U6NCR4B2A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "additional_source": [
+        "https://www.etnews.com/20250202000032",
+        "http://www.g-enews.com/ko-kr/news/article/news_all/20250202165912881978e43e3ead_1/article.html"
+      ],
+      "new_summary_with_insight": "안철수 의원은 AI 기술 개발과 민생 경제 활성화를 위해 20조원 규모의 추경을 추진해야 한다고 주장했습니다. 이는 AI 패권 전쟁에서 뒤처지지 않기 위한 전략으로, 국내 AI 산업 육성을 위한 긴급한 재정 투입이 필요함을 강조합니다.",
+      "date": "2025-02-02"
+    }
+  ]
+}

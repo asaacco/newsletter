@@ -1,0 +1,54 @@
+ASAAC 일일 뉴스 브리핑 (ESG/AI)
+
+"아침 사과 같은 ASAAC한 소식을 전합니다."
+
+# ESG 동향 
+
+1/ Geothermal Tech Startup Bedrock Raises $12 Million to Scale Carbon-Free HVAC for Buildings [ESG Today] (2025-01-23)
+지열 기술 스타트업인 베드록 에너지가 건물의 탄소 배출 없는 냉난방 시스템을 확장하기 위해 1200만 달러를 모금했습니다. 이는 전 세계 온실가스 배출의 15%를 차지하는 건물 부문의 탄소 배출 감소를 목표로 하고 있습니다. 베드록 에너지는 자율 드릴링 및 고급 지하 모델링 기술을 결합하여 도시 밀집 지역에서도 효율적인 지열 HVAC 시스템을 제공합니다.
+* 해당 기사: https://www.esgtoday.com/geothermal-tech-startup-bedrock-raises-12-million-to-scale-carbon-free-hvac-for-buildings/?utm_source=rss&utm_medium=rss&utm_campaign=geothermal-tech-startup-bedrock-raises-12-million-to-scale-carbon-free-hvac-for-buildings
+
+2/ 상하이증권거래소, ESG 공시 가이드라인 보완...상장기업 절반 이상 참여 [임팩트온] (2025-01-24)
+상하이증권거래소(SSE)는 ESG 공시 품질을 높이기 위해 상장기업별 맞춤형 지침을 포함한 새로운 보완 가이드를 발표하며, ESG 공시 표준화와 보고 품질 개선을 추진하고 있습니다. 2024년 SSE 상장기업의 52%가 ESG 보고서를 제출했으며, 342개 기업이 MSCI ESG 등급을 받는 등 국제 기준에 부합하는 성과를 보였으며, AAA등급 기업도 8개로 증가했습니다. 중국 정부는 2030년까지 ESG 공시 의무화를 목표로 국가 차원의 지속가능성 정책을 강화하고 있으며, 이는 국제 투자 유치와 지속가능한 성장에 유리한 환경을 조성할 것으로 기대됩니다.
+* 해당 기사: https://www.impacton.net/news/articleView.html?idxno=13837
+
+3/ Microsoft Signs Forest Restoration Deal to Remove 3.5 Million Tons of CO2 [ESG Today] (2025-01-23)
+마이크로소프트가 브라질의 숲 복원 프로젝트를 통해 350만 톤의 CO2를 제거하기 위한 협약을 체결했습니다. 이 프로젝트는 아마존과 대서양 숲의 복원을 포함하며, 생물 다양성 보호뿐만 아니라 큰 규모의 탈탄소화를 목표로 하고 있습니다. 마이크로소프트의 이번 협약은 자연 기반 솔루션의 중요성을 강조하며 지속 가능한 발전을 위한 중요한 이정표를 세웁니다.
+* 해당 기사: https://www.esgtoday.com/microsoft-signs-forest-restoration-deal-to-remove-3-5-million-tons-of-co2/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-forest-restoration-deal-to-remove-3-5-million-tons-of-co2
+* 다른 기사: https://esgnews.com/microsoft-to-remove-3-5-million-metric-tonnes-of-co2-through-forest-restoration-deal/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-to-remove-3-5-million-metric-tonnes-of-co2-through-forest-restoration-deal
+
+4/ 7문 7답으로 풀어본 트럼프의 파리협정 탈퇴 논란 [ESG경제] (2025-01-24)
+도널드 트럼프 대통령은 취임 직후 파리기후변화협정 탈퇴를 명령했으며, 이는 바이든 행정부의 기후 정책을 후퇴시키는 결정으로 비판받고 있습니다. 파리협정은 2015년 채택된 국제적 기후 협약으로, 지구 평균 기온 상승을 산업화 이전 대비 섭씨 1.5도로 제한하는 것을 목표로 하지만, 법적 구속력이 부족하다는 한계를 가지고 있습니다. 트럼프 대통령의 이번 결정은 심각한 기후 변화 문제에 대한 국제사회의 대응을 약화시키고, 글로벌 온실가스 감축 노력에 부정적인 영향을 미칠 것으로 우려됩니다.
+* 해당 기사:https://www.esgeconomy.com/news/articleView.html?idxno=9750
+
+5/ Saudi Arabia Invests Over $500 Billion in Sustainable Tourism: Minister [ESG News] (2025-01-23)
+사우디아라비아가 지속 가능한 관광지를 조성하기 위해 5천억 달러 이상을 투자했습니다. 관광부 장관은 다보스에서 열린 발표에서 이 프로젝트들이 환경 친화적으로 설계되고 실행될 것임을 강조했습니다. 이러한 투자는 국가 경제의 다각화를 위한 중요한 전략이며, 지속 가능한 개발 목표를 달성하는 데 기여할 것으로 기대됩니다.
+* 해당 기사: https://esgnews.com/saudi-arabia-invests-over-500-billion-in-sustainable-tourism-minister/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-arabia-invests-over-500-billion-in-sustainable-tourism-minister
+
+# AI 동향 
+
+1/ “업무용 PC 실사용자 68%, AI PC로 전환할 의향 있다”... [인공지능신문] (2025-01-23)
+델 테크놀로지스 조사에 따르면, 업무용 PC 사용자 중 68.2%가 AI PC로 전환할 의향이 있으며, AI PC는 로컬 디바이스에서 AI 비서를 활용해 업무 효율성과 생산성을 향상시키는 기능으로 주목받고 있습니다. AI 워크로드의 비중이 증가하며 워크스테이션 사용이 늘어나고, 특히 제조 연구 개발 및 데이터 사이언스 분야에서 높은 활용률을 보이는 반면, 일반 PC 사용자들은 성능과 안정성 부족을 주요 단점으로 지적했습니다. 윈도우 10 지원 종료와 AI 기술 도입 가속화가 맞물려 AI PC와 워크스테이션에 대한 기업들의 투자 의지가 증가하고 있으며, 델은 이를 지원하기 위해 폭넓은 AI PC 포트폴리오와 관련 서비스를 제공하고 있습니다.
+* 해당 기사: https://www.aitimes.kr/news/articleView.html?idxno=33684
+
+2/ 오픈AI, 미국서 AI 에이전트 '오퍼레이터' 출시..."곧 다른 국가에서도 공개" [AI타임스] (2025-01-24)
+오픈AI는 웹 브라우저를 제어하며 사용자를 대신해 온라인 작업을 수행하는 범용 GUI 에이전트 '오퍼레이터(Operator)'를 미리보기로 출시했으며, 현재 미국 내 일부 유료 사용자에게 제공되고 있습니다. GPT-4o 기반으로 작동하며 안전성을 강화했으나, 복잡한 작업 처리에는 제한이 있습니다. 오픈AI는 오퍼레이터를 통해 자동화 기술을 확대할 계획이며, 앤트로픽과 구글에 이어 범용 GUI 에이전트 경쟁에 본격적으로 뛰어들어 빠른 기술 발전이 예상됩니다.
+* 해당 기사: https://www.aitimes.com/news/articleView.html?idxno=167457
+
+3/ 삼성전자·엔비디아·지멘스, AI 로봇 시장 선점 경쟁 [글로벌이코노믹] (2025-01-24)
+삼성전자, 엔비디아, 지멘스가 AI 로봇 시장에서 각자의 강점을 살려 경쟁하고 있습니다. 삼성전자는 안전성과 실용화, 엔비디아는 AI와 GPU 기술, 지멘스는 산업자동화에서 두각을 나타내고 있습니다. 특히 로봇 운영체제와 같은 오픈소스 플랫폼을 중심으로 소프트웨어 경쟁이 더욱 활발해질 것으로 예상됩니다.
+* 해당 기사: http://m.g-enews.com/ko-kr/news/article/news_all/202501232050304826fbbec65dfb_1/article.html
+
+4/ LG전자, 로봇기업 베어로보틱스 자회사 편입…로봇사업 '속도' [글로벌이코노믹] (2025-01-24)
+LG전자가 로봇기업 베어로보틱스를 자회사로 편입하며 로봇사업에 속도를 내고 있습니다. 베어로보틱스는 AI 기반의 상업용 자율주행로봇을 개발하며, LG전자는 이를 통해 클라우드 관제와 군집제어 기술 등에서 혁신을 이루고자 합니다. 이번 인수는 LG전자의 로봇사업 확장을 위한 전략적 행보로 평가됩니다.
+* 해당 기사: http://m.g-enews.com/ko-kr/news/article/news_all/2025012409263760616ed0c62d49_1/article.html
+
+5/ 교황, 다보스포럼서 "AI 시대, 진실 왜곡 우려도 커져” 경고 [글로벌이코노믹] (2025-01-24)
+교황 프란치스코가 다보스포럼에서 AI 시대의 진실 왜곡 우려를 경고했습니다. 그는 AI 기술의 발전이 공공 영역에서 진실을 왜곡할 가능성을 높일 수 있다고 밝혔습니다. 이러한 경고는 AI의 윤리적 사용과 사회적 책임을 강조하며, 기술 발전의 두려움을 해소하기 위한 대책 마련의 필요성을 시사합니다.
+* 해당 기사: http://m.g-enews.com/ko-kr/news/article/news_all/202501240812231429a1f309431_1/article.html
+
+ASAAC Co.
+* 출처: https://asaac.co.kr
+* 더 자세한 ESG/AI 관련 뉴스 기사 및 인사이트
+* https://open.kakao.com/o/grtDi31g
+Copyright 2025. ASAAC Co. all rights reserved.

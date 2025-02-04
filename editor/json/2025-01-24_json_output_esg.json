@@ -1,0 +1,60 @@
+{
+  "ESG_소식": [
+    {
+      "id": 1,
+      "title": "Geothermal Tech Startup Bedrock Raises $12 Million to Scale Carbon-Free HVAC for Buildings",
+      "media_name": "ESG Today",
+      "link": "https://www.esgtoday.com/geothermal-tech-startup-bedrock-raises-12-million-to-scale-carbon-free-hvac-for-buildings/?utm_source=rss&utm_medium=rss&utm_campaign=geothermal-tech-startup-bedrock-raises-12-million-to-scale-carbon-free-hvac-for-buildings",
+      "additional_source": null,
+      "new_summary_with_insight": "지열 기술 스타트업인 베드록 에너지가 건물의 탄소 배출 없는 냉난방 시스템을 확장하기 위해 1200만 달러를 모금했습니다. 이는 전 세계 온실가스 배출의 15%를 차지하는 건물 부문의 탄소 배출 감소를 목표로 하고 있습니다. 베드록 에너지는 자율 드릴링 및 고급 지하 모델링 기술을 결합하여 도시 밀집 지역에서도 효율적인 지열 HVAC 시스템을 제공합니다.",
+      "date": "2025-01-23"
+    },
+    {
+      "id": 2,
+      "title": "Microsoft Signs Forest Restoration Deal to Remove 3.5 Million Tons of CO2",
+      "media_name": "ESG Today",
+      "link": "https://www.esgtoday.com/microsoft-signs-forest-restoration-deal-to-remove-3-5-million-tons-of-co2/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-forest-restoration-deal-to-remove-3-5-million-tons-of-co2",
+      "additional_source": "https://esgnews.com/microsoft-to-remove-3-5-million-metric-tonnes-of-co2-through-forest-restoration-deal/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-to-remove-3-5-million-metric-tonnes-of-co2-through-forest-restoration-deal",
+      "new_summary_with_insight": "마이크로소프트가 브라질의 숲 복원 프로젝트를 통해 350만 톤의 CO2를 제거하기 위한 협약을 체결했습니다. 이 프로젝트는 아마존과 대서양 숲의 복원을 포함하며, 생물 다양성 보호뿐만 아니라 큰 규모의 탈탄소화를 목표로 하고 있습니다. 마이크로소프트의 이번 협약은 자연 기반 솔루션의 중요성을 강조하며 지속 가능한 발전을 위한 중요한 이정표를 세웁니다.",
+      "date": "2025-01-23"
+    },
+    {
+      "id": 3,
+      "title": "Saudi Arabia Invests Over $500 Billion in Sustainable Tourism: Minister",
+      "media_name": "ESG News",
+      "link": "https://esgnews.com/saudi-arabia-invests-over-500-billion-in-sustainable-tourism-minister/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-arabia-invests-over-500-billion-in-sustainable-tourism-minister",
+      "additional_source": null,
+      "new_summary_with_insight": "사우디아라비아가 지속 가능한 관광지를 조성하기 위해 5천억 달러 이상을 투자했습니다. 관광부 장관은 다보스에서 열린 발표에서 이 프로젝트들이 환경 친화적으로 설계되고 실행될 것임을 강조했습니다. 이러한 투자는 국가 경제의 다각화를 위한 중요한 전략이며, 지속 가능한 개발 목표를 달성하는 데 기여할 것으로 기대됩니다.",
+      "date": "2025-01-23"
+    }
+  ],
+  "AI_소식": [
+    {
+      "id": 1,
+      "title": "삼성전자·엔비디아·지멘스, AI 로봇 시장 선점 경쟁",
+      "media_name": "글로벌이코노믹",
+      "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202501232050304826fbbec65dfb_1/article.html",
+      "additional_source": null,
+      "new_summary_with_insight": "삼성전자, 엔비디아, 지멘스가 AI 로봇 시장에서 각자의 강점을 살려 경쟁하고 있습니다. 삼성전자는 안전성과 실용화, 엔비디아는 AI와 GPU 기술, 지멘스는 산업자동화에서 두각을 나타내고 있습니다. 특히 로봇 운영체제와 같은 오픈소스 플랫폼을 중심으로 소프트웨어 경쟁이 더욱 활발해질 것으로 예상됩니다.",
+      "date": "2025-01-24"
+    },
+    {
+      "id": 2,
+      "title": "LG전자, 로봇기업 베어로보틱스 자회사 편입…로봇사업 '속도'",
+      "media_name": "글로벌이코노믹",
+      "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025012409263760616ed0c62d49_1/article.html",
+      "additional_source": "https://zdnet.co.kr/view/?no=20250124075200",
+      "new_summary_with_insight": "LG전자가 로봇기업 베어로보틱스를 자회사로 편입하며 로봇사업에 속도를 내고 있습니다. 베어로보틱스는 AI 기반의 상업용 자율주행로봇을 개발하며, LG전자는 이를 통해 클라우드 관제와 군집제어 기술 등에서 혁신을 이루고자 합니다. 이번 인수는 LG전자의 로봇사업 확장을 위한 전략적 행보로 평가됩니다.",
+      "date": "2025-01-24"
+    },
+    {
+      "id": 3,
+      "title": "교황, 다보스포럼서 \"AI 시대, 진실 왜곡 우려도 커져” 경고",
+      "media_name": "글로벌이코노믹",
+      "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202501240812231429a1f309431_1/article.html",
+      "additional_source": null,
+      "new_summary_with_insight": "교황 프란치스코가 다보스포럼에서 AI 시대의 진실 왜곡 우려를 경고했습니다. 그는 AI 기술의 발전이 공공 영역에서 진실을 왜곡할 가능성을 높일 수 있다고 밝혔습니다. 이러한 경고는 AI의 윤리적 사용과 사회적 책임을 강조하며, 기술 발전의 두려움을 해소하기 위한 대책 마련의 필요성을 시사합니다.",
+      "date": "2025-01-24"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+ASAAC 일일 뉴스 브리핑 (AI)
+
+"아침 사과 같은 ASAAC한 소식을 전합니다."
+
+# AI 동향 
+
+1/ Pipeshift Innovates AI Deployment with $2.5M Boost [Korea IT Times] (2025-01-24)
+Pipeshift는 오픈 소스 AI 솔루션의 채택 증가에 대응하기 위해 첨단 플랫폼 서비스(PaaS)를 개발하고 있습니다. 이 서비스는 엔지니어링 팀이 AI 모델을 빠르게 배포할 수 있도록 돕습니다. 이러한 기술 혁신은 AI의 실질적인 적용을 촉진하고 기업의 디지털 전환을 가속화할 것입니다.
+* 해당 기사: https://www.koreaittimes.com/news/articleView.html?idxno=137958
+
+2/ AI 스타트업 프렌들리AI, 허깅페이스와 전략적 파트너십 체결 [한국경제] (2025-01-24)
+프렌들리AI가 허깅페이스와의 전략적 파트너십을 통해 AI 모델 배포를 간소화했습니다. 이는 AI 기술의 확산을 촉진하며, 개발자들이 더 효과적으로 AI 솔루션을 활용할 수 있도록 지원합니다. 이러한 협력은 AI 생태계의 협력적 발전을 의미합니다.
+* 해당 기사: https://www.hankyung.com/article/202501247982i
+* 다른 기사: https://www.etnews.com/20250124000093
+
+3/ 오픈AI, 사람처럼 컴퓨터 쓰는 AI ‘오퍼레이터’ 출시 [조선일보] (2025-01-24)
+오픈AI는 인간처럼 컴퓨터를 조작할 수 있는 AI 에이전트 '오퍼레이터'를 공개했습니다. 이 기술은 AI가 단순한 채팅을 넘어 실제 작업을 수행할 수 있는 능력을 제공합니다. 앞으로의 AI 발전은 인간과 기계 간의 상호작용을 더욱 자연스럽고 효율적으로 만들 것입니다.
+* 해당 기사: https://www.chosun.com/national/2025/01/24/VX7MAE7TTNDFZNNVAHDMST5HKQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
+* 다른 기사: https://www.hankyung.com/article/202501247689i
+
+4/ AI 기반 디지털 전환 올빅뎃, "데이터가 새로운 원유다! [Korea IT Times] (2025-01-24)
+올빅뎃은 AI 기반 디지털 전환 솔루션을 통해 기업의 문서 데이터를 데이터베이스로 전환하는 기술을 제공합니다. 데이터가 '새로운 원유'로 불리며, 이 기술은 기업의 데이터 활용 능력을 극대화하고 경쟁력을 강화할 수 있습니다. 디지털 전환의 성공은 데이터 활용에 달려 있습니다.
+* 해당 기사: https://www.koreaittimes.com/news/articleView.html?idxno=137956
+
+5/ 에이아이코리아-에이아이로보틱스, 로봇 특허 6건 등록 성공 “차별화된... [파이낸셜뉴스] (2025-01-24)
+에이아이로보틱스는 로봇 분야에서 6건의 특허를 등록하며 기술 경쟁력을 인정받았습니다. 이로써 반도체, 디스플레이, 이차전지 등 첨단산업 분야에서의 입지를 강화하고 있습니다. 이러한 기술적 우위는 글로벌 시장에서의 경쟁력을 높이는 데 기여할 것입니다.
+* 해당 기사: http://www.fnnews.com/news/202501241325362594
+
+ASAAC Co.
+* 출처: https://asaac.co.kr
+* 더 자세한 AI 관련 뉴스 기사 및 인사이트
+* https://open.kakao.com/o/grtDi31g
+Copyright 2025. ASAAC Co. all rights reserved.

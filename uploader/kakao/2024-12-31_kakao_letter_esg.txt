@@ -1,0 +1,46 @@
+ASAAC 일일 뉴스 브리핑 (ESG/DX)
+
+"아침 사과 같은 ASAAC한 소식을 전합니다."
+
+# ESG 동향 
+
+1/ 엔씨소프트, 글로벌 ESG 평가 4년 연속 업계 최고 등급 획득 [글로벌이코노믹] (2024-12-31)
+엔씨소프트가 4년 연속으로 글로벌 ESG 평가에서 국내 게임업계 최고 등급인 AA등급을 획득했습니다. 이는 모건스탠리캐피털인터내셔널(MSCI)에서 평가한 결과로, 엔씨소프트는 개인정보 보호 및 정보 보안 측면에서도 높은 평가를 받았습니다. 이러한 성과는 ESG 경영을 강화하고 있는 엔씨소프트의 지속적인 노력을 반영합니다.
+* 해당 기사: http://www.g-enews.com/ko-kr/news/article/news_all/2024123014434642863b60030fa2_1/article.html
+* 다른 기사: https://zdnet.co.kr/view/?no=20241230104512
+
+2/ 부동산원, 전자서명 서비스 도입...업무 효율화 및 ESG 경영 실천 [글로벌이코노믹] (2024-12-31)
+한국부동산원이 전자서명 서비스를 도입하여 서류 처리 시간을 단축하고 ESG 경영을 실천하고자 합니다. 이는 종이 문서 사용을 줄이고 환경적 부담을 줄이는 효과를 가져옵니다. 디지털 전환을 통한 업무 효율화는 현대 기업들이 ESG 경영을 실천하는 중요한 방식 중 하나입니다.
+* 해당 기사: http://www.g-enews.com/ko-kr/news/article/news_all/202412301114247332a9fc143920_1/article.html
+
+3/ New York to Charge Oil Companies $75 Billion to Pay for Infrastructure to Cope with Climate Change [ESG Today] (2024-12-30)
+뉴욕주는 기후 변화 적응을 위한 인프라 투자 비용의 일정 부분을 화석 연료 회사들이 부담하도록 하는 '기후 변화 슈퍼펀드 법'을 통과시켰습니다. 이 법안에 따라 화석 연료 회사들은 2050년까지 약 750억 달러를 지급해야 합니다. 이는 환경 문제 해결을 위한 기업의 책임을 강조하는 새로운 단계로, 다른 지역에서도 유사한 움직임이 확산될 가능성이 큽니다.
+* 해당 기사: https://www.esgtoday.com/new-york-to-charge-oil-companies-75-billion-to-pay-for-infrastructure-to-cope-with-climate-change/?utm_source=rss&utm_medium=rss&utm_campaign=new-york-to-charge-oil-companies-75-billion-to-pay-for-infrastructure-to-cope-with-climate-change
+
+4/ JSW Energy to Acquire Temasek-Backed O2 Power’s 4.7 GW Portfolio for $1.47 Billion [ESG News] (2024-12-30)
+JSW 에너지가 14억 7천만 달러에 O2 파워의 4.7GW 재생 에너지 포트폴리오를 인수하기로 했습니다. 이는 JSW의 2030년까지 20GW의 재생 가능 에너지 용량 목표 달성을 위한 전략적 확대입니다. 지속 가능한 에너지로의 전환은 기후 변화 대응의 핵심이며, 이러한 대규모 투자는 글로벌 에너지 시장의 변화를 가속화할 것입니다.
+* 해당 기사: https://esgnews.com/jsw-energy-to-acquire-temasek-backed-o2-powers-4-7-gw-portfolio-for-1-47-billion/?utm_source=rss&utm_medium=rss&utm_campaign=jsw-energy-to-acquire-temasek-backed-o2-powers-4-7-gw-portfolio-for-1-47-billion
+
+
+# AI/DX 동향 
+
+1/ 엔비디아, AI 스타트업 '런AI' 인수 완료…소프트웨어 역량 강화 [블로터언론사 선정] (2024-12-31)
+엔비디아가 이스라엘 AI 스타트업 런AI를 인수하여 소프트웨어 역량을 강화했습니다. 런AI는 AI 작업용 GPU 자원 최적화 소프트웨어를 개발하는 회사로, 엔비디아의 인수는 AI 인프라 최적화와 시장 확장에 기여할 것입니다. 이는 AI 산업에서의 경쟁력을 더욱 강화하는 데 중대한 영향을 미칠 것으로 예상됩니다.
+* 해당 기사: https://www.bloter.net/news/articleView.html?idxno=628999
+* 다른 기사: https://www.hankyung.com/article/202412317545i
+
+2/ 알리바바 클라우드 "아시아 전역 다양한 산업 AI 혁신 가속화 지원" [아이티데일리] (2024-12-31)
+알리바바 클라우드는 아시아 전역에서 AI 기술을 활용한 디지털 전환을 가속화하고 있습니다. 독자적인 큐원 거대언어모델과 고급 AI 분석 기술을 통해 고객 경험을 혁신하고 운영 효율성을 대폭 강화하고 있습니다. 이는 다양한 산업의 디지털 혁신을 지원하여 기업의 경쟁력을 높이는 데 기여합니다.
+* 해당 기사: http://www.itdaily.kr/news/articleView.html?idxno=230074
+* 다른 기사: https://www.itbiznews.com/news/articleView.html?idxno=156493
+
+3/ AI 청소로봇 '휠리', 엘리베이터 혼자 탄다 [지디넷코리아언론사 선정] (2024-12-31)
+AI 청소로봇 '휠리'가 엘리베이터를 독자적으로 탑승하여 층간 이동을 할 수 있는 기능을 선보입니다. 이는 라이노스의 rEMS 솔루션과 결합된 결과로, 다양한 환경에서의 청소 작업 효율을 크게 향상시킬 수 있습니다. 이러한 기술 발전은 서비스 로봇의 활용 범위를 넓히고, 자동화된 관리 체계를 구축하는 데 중요한 역할을 할 것입니다.
+* 해당 기사: https://zdnet.co.kr/view/?no=20241231002907
+* 다른 기사: http://www.irobotnews.com/news/articleView.html?idxno=37147
+
+ASAAC Co.
+* 출처: linkedin.com/company/asaac
+* 더 자세한 ESG/DX 관련 뉴스 기사 및 인사이트 (asaac)
+* https://open.kakao.com/o/grtDi31g
+Copyright 2024. ASAAC Co. all rights reserved.

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Newsletter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif; /* 본문에 사용할 기본 폰트 */
+            line-height: 1.6; /* 줄 간격 */
+            background-color: #ffffff; /* 전체 배경을 흰색으로 설정 */
+            margin: 0; /* 페이지 여백 제거 */
+            padding: 20px; /* 콘텐츠와 화면 가장자리 간의 여백 추가 */
+        }
+        h3 {
+            color: #2c3e50; /* 제목 색상 */
+            border-bottom: 2px solid #bdc3c7; /* 제목 하단의 구분선 */
+            padding-bottom: 10px; /* 제목 하단 여백 */
+        }
+        .separator {
+            border-top: 2px solid #bdc3c7; /* 구분선의 두께와 색상 */
+            margin: 20px 0; /* 구분선 위아래 여백 */
+        }
+        .summary-title {
+            font-size: 24px; /* 키워드 제목 폰트 크기 */
+            font-weight: bold; /* 키워드 제목 굵게 표시 */
+            color: #2980b9; /* 키워드 제목 색상 */
+            text-align: center; /* 키워드 중앙 정렬 */
+            margin-bottom: 20px; /* 키워드 제목 아래쪽 여백 */
+        }
+        .news-item {
+            background-color: #ffffff; /* 뉴스 항목 박스 배경색 */
+            border-radius: 10px; /* 박스 모서리를 둥글게 */
+            padding: 0px; /* 뉴스 항목 박스 안쪽 여백 */
+            margin-bottom: 0px; /* 뉴스 항목 박스 아래쪽 여백 */
+            width: 610; /* 박스 너비 (약 20cm) */
+            margin: 0 auto; /* 중앙 정렬 */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 카드 형태의 그림자 */
+        }
+        .news-item a {
+            text-decoration: none; /* 링크의 밑줄 제거 */
+            color: #3498db; /* 링크 색상 */
+        }
+        .news-item a:hover {
+            text-decoration: underline; /* 링크에 마우스를 올렸을 때 밑줄 표시 */
+        }
+        .improve-box {
+            text-align: center; /* 텍스트 중앙 정렬 */
+            padding: 15px; /* 박스 안쪽 여백 */
+            background-color: #e8f8f5; /* 박스 배경색 */
+            border-radius: 5px; /* 박스 모서리 둥글게 */
+            font-size: 14px; /* 박스 폰트 크기 */
+            font-weight: bold; /* 박스 텍스트 굵게 표시 */
+            color: #1abc9c; /* 텍스트 색상 */
+            border: 1px solid #bdc3c7; /* 박스 테두리 색상 */
+            width: 150px; /* 박스 너비 */
+            margin: 0 auto; /* 중앙 정렬 */
+        }
+        .improve-box:hover {
+            background-color: #d1f2eb; /* 마우스를 올렸을 때 박스 배경색 */
+            cursor: pointer; /* 클릭 가능한 커서 모양 */
+        }
+    </style>
+</head>
+<body>
+    <h3>주요 보도자료</h3>
+    <p>최근 24시간 주요 보도 자료와 내용을 요약하여 전달드립니다.</p>
+
+    <!-- 1 세션 -->
+    <div class="summary-title">인테리어/가구</div>
+    <div class="news-item">
+        {{ 가구_인테리어_news }} <!-- 반도체 관련 뉴스가 표시되는 곳 -->
+    </div>
+
+    <!-- 2 섹션 -->
+    <div class="summary-title">업체동향</div>
+    <div class="news-item">
+        {{ 업체동향_news }} <!-- 배터리 관련 뉴스가 표시되는 곳 -->
+    </div>
+
+    <!-- 3 섹션 -->
+    <div class="summary-title">재건축/재개발/분양소식</div>
+    <div class="news-item">
+        {{ 재건축_분양소식_news }} <!-- AI/로봇 관련 뉴스가 표시되는 곳 -->
+    </div>
+
+    <div class="separator"></div> <!-- 구분선 -->
+
+    <!-- 개선 요구사항 섹션 -->
+    <div class="improve-box">
+        개선 요구사항 <!-- 개선 요구사항을 클릭할 수 있는 박스 -->
+    </div>
+
+    <footer>
+        <p style="font-size: 12px; color: #7f8c8d;">This email was automatically generated. Please do not reply.</p>
+    </footer>
+</body>
+</html>

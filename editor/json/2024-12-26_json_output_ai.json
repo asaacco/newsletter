@@ -1,0 +1,98 @@
+{
+  "AI_소식": [
+    {
+      "id": 1,
+      "title": "AI비서의 무한진화 … 자율주행차·가전서도 맹활약",
+      "media_name": "매일경제",
+      "link": "https://www.mk.co.kr/article/11203261",
+      "additional_source": "https://www.mk.co.kr/article/11203260",
+      "new_summary_with_insight": "AI 기술이 자율주행차와 가전제품에 적용되어 실생활에서의 활용도가 높아지고 있습니다. 이로 인해 운전 안전성을 높이고, 개인 맞춤형 가전이 확산되는 등 AI의 역할이 확장되고 있습니다. 미래에는 이러한 기술이 더욱 발전하여 다양한 분야에서 인간의 삶을 개선할 것으로 기대됩니다.",
+      "date": "2024-12-26"
+    },
+    {
+      "id": 2,
+      "title": "SK네트웍스, 종합상사서 AI기업으로 탈바꿈",
+      "media_name": "매일경제",
+      "link": "https://www.mk.co.kr/article/11203181",
+      "additional_source": null,
+      "new_summary_with_insight": "SK네트웍스가 AI 중심의 사업지주회사로 변신을 꾀하고 있습니다. AI를 활용한 신약개발과 글로벌 투자 네트워크 구축 등을 통해 AI 분야에서의 경쟁력을 강화하고자 합니다. 이는 AI를 통한 산업 전반의 혁신을 목표로 하는 전략적 움직임으로 보입니다.",
+      "date": "2024-12-26"
+    },
+    {
+      "id": 3,
+      "title": "오픈AI, 휴머노이드 로봇 시장 뛰어드나… 자체 개발 검토중",
+      "media_name": "IT조선",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092130666",
+      "additional_source": "https://zdnet.co.kr/view/?no=20241225133447",
+      "new_summary_with_insight": "오픈AI가 휴머노이드 로봇 개발을 검토하고 있어 로봇 시장에 대한 기대감이 높아지고 있습니다. 이는 AI 기술의 발전과 함께 로봇 분야에서의 혁신적인 변화가 예고되고 있음을 보여줍니다. 이러한 움직임은 로봇 기술의 미래를 밝게 하고 있으며, 시장의 변화에 중요한 역할을 할 것입니다.",
+      "date": "2024-12-26"
+    },
+    {
+      "id": 4,
+      "title": "삼성·LG·SK ‘CES’ 출격… AI 가전·기술 선보인다",
+      "media_name": "파이낸셜뉴스",
+      "link": "http://www.fnnews.com/news/202412251829461169",
+      "additional_source": null,
+      "new_summary_with_insight": "삼성, LG, SK 등 국내 대기업들이 CES 2025에서 AI 가전과 기술을 선보일 예정입니다. 이는 AI 기술의 실제 적용 사례를 제시하며, 글로벌 시장에서의 경쟁력을 높이기 위한 전략으로 보입니다. 이러한 기술 전시는 AI 기술이 일상에서 어떻게 활용될 수 있는지를 보여주는 중요한 기회가 될 것입니다.",
+      "date": "2024-12-26"
+    },
+    {
+      "id": 5,
+      "title": "내년 정책금융 247.5조 공급…AI등 5대 분야 136조 집중",
+      "media_name": "이데일리",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01430086639122128",
+      "additional_source": "http://www.fnnews.com/news/202412251830029924",
+      "new_summary_with_insight": "정부가 내년에 AI와 반도체 등 첨단 전략산업에 136조 원을 집중 투자할 계획입니다. 이는 국가 경쟁력 강화를 위한 중점 분야로 AI의 중요성을 다시 한 번 강조합니다. 이러한 투자 계획은 산업 발전과 기술 혁신을 가속화하는 데 기여할 것으로 기대됩니다.",
+      "date": "2024-12-26"
+    }
+  ],
+  "메타버스_소식": [
+    {
+      "id": 1,
+      "title": "삼성 XR헤드셋 흥행 여부…“닮은 꼴 스마트폰 시장에 답이 있다”",
+      "media_name": "글로벌이코노믹",
+      "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2024122509424548716ed0c62d49_1/article.html",
+      "additional_source": null,
+      "new_summary_with_insight": "삼성전자가 새로운 XR 헤드셋을 공개할 예정인 가운데, 스마트폰 시장의 성공 사례가 XR 헤드셋의 흥행 가능성을 시사하고 있습니다. XR 기술은 가상현실(VR)과 증강현실(AR)을 결합한 기술로, 다양한 분야에서 혁신적인 사용자 경험을 제공할 수 있습니다. 이러한 기술은 향후 디지털 콘텐츠 소비 방식에 큰 변화를 가져올 것으로 전망됩니다.",
+      "date": "2024-12-26"
+    },
+    {
+      "id": 2,
+      "title": "AR 안경, VR 콘텐츠 업계 '게임 체인저' 될까",
+      "media_name": "글로벌이코노믹",
+      "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202412241119596751c5fa75ef86_1/article.html",
+      "additional_source": null,
+      "new_summary_with_insight": "AR 안경이 VR 콘텐츠 업계의 '게임 체인저'로 주목받고 있습니다. 메타와 구글 등 다양한 기업들이 AR 안경 시장에 진출하며, 새로운 콘텐츠 생태계 구축을 시도하고 있습니다. 이러한 기술 발전은 사용자의 몰입도를 높이고, 다양한 분야에서의 활용 가능성을 열어줄 것으로 기대됩니다.",
+      "date": "2024-12-26"
+    }
+  ],
+  "로봇_소식": [
+    {
+      "id": 1,
+      "title": "[팩플] ‘넥스트 레벨’은 로봇? 오픈AI, 휴머노이드 로봇 개발 논의",
+      "media_name": "중앙일보",
+      "link": "https://www.joongang.co.kr/article/25302723",
+      "additional_source": "https://www.hankyung.com/article/202412258176i",
+      "new_summary_with_insight": "오픈AI가 휴머노이드 로봇 개발을 논의 중이라는 소식이 전해졌습니다. 이는 AI 기술의 발전이 로봇 분야로 확장되면서, 미래의 로봇 시장에 큰 영향을 미칠 것으로 보입니다. 이러한 움직임은 로봇의 인간화와 다양한 산업에서의 로봇 활용 가능성을 높이는 데 기여할 것입니다.",
+      "date": "2024-12-26"
+    },
+    {
+      "id": 2,
+      "title": "MLB ‘로봇심판’ 도입 초읽기…내년 스프링캠프서 시범운영",
+      "media_name": "한겨레",
+      "link": "https://www.hani.co.kr/arti/sports/baseball/1174780.html",
+      "additional_source": null,
+      "new_summary_with_insight": "MLB가 내년 스프링캠프에서 로봇심판 시스템을 시범 운영할 예정입니다. 자동볼판정시스템(ABS)의 도입은 경기의 공정성을 높이고, 심판의 부담을 줄일 수 있는 혁신적인 변화로 평가됩니다. 이러한 기술의 도입은 스포츠 분야에서 AI와 로봇 기술의 활용 가능성을 넓히는 계기가 될 것입니다.",
+      "date": "2024-12-26"
+    },
+    {
+      "id": 3,
+      "title": "\"놀라운 공중제비\" 중국 벤처기업의 로봇개",
+      "media_name": "뉴스핌",
+      "link": "https://www.newspim.com/news/view/20241225000097",
+      "additional_source": "https://www.newspim.com/news/view/20241225000086",
+      "new_summary_with_insight": "중국 벤처기업 위수커지가 개발한 로봇개 B2-W가 주목받고 있습니다. 이 로봇개는 놀라운 기동성과 적재 능력을 갖추고 있어, 다양한 산업 분야에 활용될 가능성을 보여줍니다. 이러한 혁신적인 기술은 로봇 산업의 경쟁력을 높이고, 시장의 다양성을 증대시키는 데 기여할 것입니다.",
+      "date": "2024-12-26"
+    }
+  ]
+}

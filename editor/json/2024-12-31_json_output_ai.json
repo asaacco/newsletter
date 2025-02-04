@@ -1,0 +1,80 @@
+{
+  "AI_소식": [
+    {
+      "id": 1,
+      "title": "삼성 AI가전 '스마트싱스' 국내 이용자 2000만명 돌파",
+      "media_name": "파이낸셜뉴스",
+      "link": "http://www.fnnews.com/news/202412301825175819",
+      "additional_source": null,
+      "new_summary_with_insight": "삼성전자의 '스마트싱스' 플랫폼은 AI 가전의 인기로 인해 국내 이용자가 2000만 명을 돌파했습니다. 이는 삼성의 AI 기술이 삶의 편리함을 더해주고 있음을 보여줍니다. 향후 AI 가전 시장의 확대가 기대됩니다.",
+      "date": "2024-12-31"
+    },
+    {
+      "id": 2,
+      "title": "AI로 한번 더 주방혁신… 'LG 시그니처' 신제품 눈길",
+      "media_name": "파이낸셜뉴스",
+      "link": "http://www.fnnews.com/news/202412301825079260",
+      "additional_source": null,
+      "new_summary_with_insight": "LG전자가 AI 기술을 적용한 초프리미엄 가전 신제품 'LG 시그니처'를 CES 2025에서 공개합니다. 이는 AI 기술의 가전 분야 응용 가능성을 보여주며, 혁신적인 주방 환경을 제시합니다. LG의 지속적인 AI 기술 발전이 기대됩니다.",
+      "date": "2024-12-31"
+    },
+    {
+      "id": 3,
+      "title": "엔비디아, 이스라엘 AI스타트업 1조원 인수 완료 발표",
+      "media_name": "한국경제",
+      "link": "https://www.hankyung.com/article/202412317545i",
+      "additional_source": null,
+      "new_summary_with_insight": "엔비디아가 이스라엘 AI 스타트업 런에이아이를 1조원에 인수했습니다. 이는 엔비디아의 AI 기술력 강화를 위한 전략적 인수로, AI 인프라 최적화에 기여할 것으로 보입니다. AI 분야에서의 글로벌 경쟁력을 확보하는 중요한 발걸음으로 평가됩니다.",
+      "date": "2024-12-31"
+    },
+    {
+      "id": 4,
+      "title": "구글 CEO \"내년 어려울 것…상반기 여러 AI 기능 도입\"",
+      "media_name": "한국경제",
+      "link": "https://www.hankyung.com/article/202412317724i",
+      "additional_source": null,
+      "new_summary_with_insight": "구글 CEO 순다르 피차이가 내년에 AI 사업 확대를 통해 어려움을 극복하겠다고 밝혔습니다. 이는 AI 기술이 다양한 산업에서 핵심적인 역할을 할 것임을 시사합니다. 더 많은 AI 기능들이 상반기에 도입될 예정입니다.",
+      "date": "2024-12-31"
+    }
+  ],
+  "메타버스_소식": [
+    {
+      "id": 1,
+      "title": "비빔블, 메타버스 선도 프로젝트로 글로벌 엔터 산업 도전장",
+      "media_name": "파이낸셜뉴스",
+      "link": "http://www.fnnews.com/news/202412311057280322",
+      "additional_source": null,
+      "new_summary_with_insight": "비빔블이 메타버스 선도 프로젝트로 글로벌 엔터테인먼트 산업에 도전장을 내밀었습니다. 다양한 기업과의 협력을 통해 창의적인 결과물을 선보일 예정입니다. 이는 한국의 메타버스 기술력을 글로벌 무대에 알리는 기회가 될 것입니다.",
+      "date": "2024-12-31"
+    },
+    {
+      "id": 2,
+      "title": "3D 스트리밍 프로젝트 ‘마와리’ DePIN 기술로 XR 수익모델 구축",
+      "media_name": "중앙일보",
+      "link": "https://www.joongang.co.kr/article/25303931",
+      "additional_source": null,
+      "new_summary_with_insight": "마와리는 DePIN 기술을 활용하여 XR 산업에서 새로운 수익 모델을 구축하고 있습니다. 이는 3D 스트리밍 기술과 블록체인의 결합을 통해 XR 콘텐츠의 가치 창출을 가능하게 합니다. 앞으로의 XR 시장 확대에 중요한 역할을 할 것입니다.",
+      "date": "2024-12-31"
+    }
+  ],
+  "로봇_소식": [
+    {
+      "id": 1,
+      "title": "로보아르테-바오밥로보틱스, 국내 조리로봇 협력 MOU 체결",
+      "media_name": "로봇신문",
+      "link": "http://www.irobotnews.com/news/articleView.html?idxno=37139",
+      "additional_source": null,
+      "new_summary_with_insight": "로보아르테와 바오밥로보틱스가 조리로봇 분야에서 협력 MOU를 체결했습니다. 이는 기술 집약적인 푸드테크 분야에서의 발전 가능성을 제시하며, 조리로봇의 실질적 시장 확대를 목표로 하고 있습니다. 앞으로 푸드테크 산업에서의 혁신이 기대됩니다.",
+      "date": "2024-12-31"
+    },
+    {
+      "id": 2,
+      "title": "AI 청소로봇 휠리, 엘리베이터도 '혼자' 탄다",
+      "media_name": "로봇신문",
+      "link": "http://www.irobotnews.com/news/articleView.html?idxno=37147",
+      "additional_source": null,
+      "new_summary_with_insight": "라이노스의 AI 청소로봇 '휠리'가 엘리베이터를 스스로 타고 이동할 수 있는 기능을 선보였습니다. 이는 로봇의 자율성을 극대화한 사례로, 청소 업무의 효율성을 크게 향상시킬 것입니다. 로봇 기술의 발전이 실생활에 미치는 긍정적 영향이 기대됩니다.",
+      "date": "2024-12-31"
+    }
+  ]
+}

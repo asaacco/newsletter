@@ -1,0 +1,96 @@
+{
+  "ESG_소식": [
+    {
+      "id": 1,
+      "title": "블랙록, 트럼프 취임 앞두고 '넷제로 이니셔티브' 탈퇴",
+      "media_name": "한국경제",
+      "link": "https://www.hankyung.com/article/202501108543i",
+      "additional_source": "https://www.hankyung.com/article/2025011092461",
+      "new_summary_with_insight": "세계 최대 자산운용사 블랙록이 '넷제로 자산운용사 이니셔티브'(NZAMI)에서 탈퇴한다고 밝혔습니다. 이는 ESG(환경·사회·지배구조) 투자를 주도했던 블랙록이 입장을 바꿨다는 점에서 큰 의미가 있습니다. 이 결정은 기후변화 대응에 대한 금융기관의 역할을 다시금 생각하게 만드는 중요한 시사점을 제공합니다.",
+      "date": "2025-01-13"
+    },
+    {
+      "id": 2,
+      "title": "한국동서발전, 탄소중립 녹색성장 유공 '국무총리 표창' 수상...중소기업...",
+      "media_name": "글로벌이코노믹",
+      "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202501101345397143a9fc143920_1/article.html",
+      "additional_source": "https://www.newspim.com/news/view/20250109000890",
+      "new_summary_with_insight": "한국동서발전이 탄소중립 녹색성장 유공으로 국무총리 표창을 받았습니다. 이는 중소기업과의 협력을 통해 온실가스 감축을 위한 다양한 노력을 기울인 결과입니다. 이러한 수상은 ESG 경영에 있어 기업의 사회적 책임을 강화하는 중요한 사례로 자리잡고 있습니다.",
+      "date": "2025-01-13"
+    },
+    {
+      "id": 3,
+      "title": "교보증권, 올해 첫 ESG경영실무협의회 개최",
+      "media_name": "브릿지경제",
+      "link": "https://www.viva100.com/article/20250109500565",
+      "additional_source": "https://www.newspim.com/news/view/20250109000664",
+      "new_summary_with_insight": "교보증권은 새해 첫 ESG경영실무협의회를 열고 지속가능경영 강화를 논의했습니다. ESG경영실무위원이 참석한 이번 회의에서는 2024년 ESG 주요성과를 점검하고 2025년 추진 방향을 설정했습니다. 이는 ESG 경영이 단순한 트렌드가 아닌 기업의 필수 요소로 자리잡고 있음을 보여줍니다.",
+      "date": "2025-01-13"
+    },
+    {
+      "id": 4,
+      "title": "신원, 온실가스 감축 및 넷제로 목표 ‘SBTi’ 승인 획득",
+      "media_name": "브릿지경제",
+      "link": "https://www.viva100.com/article/20250109500064",
+      "additional_source": "https://economist.co.kr/article/view/ecn202501090029",
+      "new_summary_with_insight": "신원이 온실가스 감축 및 넷제로 목표에 대한 'SBTi' 승인을 획득했습니다. 이는 기업이 지속가능한 미래를 위해 적극적인 기후 대응을 추진하고 있음을 보여줍니다. 신원은 다양한 친환경 활동을 통해 ESG 경영 목표를 달성하고자 합니다.",
+      "date": "2025-01-13"
+    },
+    {
+      "id": 5,
+      "title": "에어프레미아, 日 노선 항공기에 지속가능항공유 도입⋯ ESG경영 박차",
+      "media_name": "브릿지경제",
+      "link": "https://www.viva100.com/article/20250109500460",
+      "additional_source": null,
+      "new_summary_with_insight": "에어프레미아가 일본 노선 항공기에 지속가능항공유(SAF)를 도입하며 ESG 경영에 박차를 가하고 있습니다. 이는 글로벌 탈탄소화 움직임에 발맞춘 조치로, 항공 산업의 환경적 책임을 강화하는 중요한 사례가 됩니다. SAF를 도입함으로써 항공기의 탄소 배출을 줄이고 지속 가능한 항공 여행을 촉진하고 있습니다.",
+      "date": "2025-01-13"
+    }
+  ],
+  "AI_소식": [
+    {
+      "id": 1,
+      "title": "일론 머스크 'AI 경쟁' 본격화…'AI 그록' 단독 앱 출시",
+      "media_name": "글로벌이코노믹",
+      "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202501101417015653ea588b1547_1/article.html",
+      "additional_source": null,
+      "new_summary_with_insight": "일론 머스크가 운영하는 AI 스타트업 xAI가 대화형 AI '그록'의 독립형 애플리케이션을 출시했습니다. 이는 AI 기술의 발전과 대중화를 향한 중요한 단계로 볼 수 있습니다. AI의 활용이 일상 속으로 더욱 깊숙이 들어오고 있음을 보여주는 사례입니다.",
+      "date": "2025-01-13"
+    },
+    {
+      "id": 2,
+      "title": "AI 도입으로 美 월가 일자리 최대 20만개 감소 전망",
+      "media_name": "글로벌이코노믹",
+      "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025011008133390059a1f309431_1/article.html",
+      "additional_source": null,
+      "new_summary_with_insight": "AI 기술의 도입으로 인해 미국 월가에서 최대 20만 개의 일자리가 감소할 것으로 전망됩니다. 이는 AI가 노동 시장에 미치는 영향력과 변화를 직접적으로 보여주는 사례입니다. 이러한 변화는 경제 전반에 걸쳐 AI의 도입이 가져올 구조적 변화를 시사합니다.",
+      "date": "2025-01-13"
+    },
+    {
+      "id": 3,
+      "title": "머스크 “AI 학습 데이터 고갈 문제 사실”…‘합성 데이터’ 제안",
+      "media_name": "글로벌이코노믹",
+      "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025011006431560529a1f309431_1/article.html",
+      "additional_source": null,
+      "new_summary_with_insight": "일론 머스크가 AI 학습 데이터의 고갈 문제를 지적하며 '합성 데이터'를 해결책으로 제안했습니다. 이는 AI 개발 과정에서 데이터의 중요성과 그 활용 방식을 재고해야 함을 시사합니다. 합성 데이터는 기존의 데이터 한계를 극복할 수 있는 유망한 대안으로 주목받고 있습니다.",
+      "date": "2025-01-13"
+    },
+    {
+      "id": 4,
+      "title": "코스닥 상장사 씨이랩, 와이즈넛과 멀티모달 AI 서비스 가속화를 위한 ...",
+      "media_name": "글로벌이코노믹",
+      "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202501091553232823edf69f862c_1/article.html",
+      "additional_source": null,
+      "new_summary_with_insight": "씨이랩과 와이즈넛이 협력하여 멀티모달 AI 서비스의 가속화를 위한 업무협약을 체결했습니다. 이는 AI 기술이 다양한 형태의 데이터를 통합적으로 처리하는 데 중요한 발전을 의미합니다. 이러한 협력은 AI 응용 분야의 확장을 가속화하고 혁신적인 솔루션 개발에 기여할 것입니다.",
+      "date": "2025-01-13"
+    },
+    {
+      "id": 5,
+      "title": "﻿美, 엔비디아 AI 칩 수출 3단계 추가 규제...한국은 예외 인정",
+      "media_name": "글로벌이코노믹",
+      "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025010907561993526b49b9d1da_1/article.html",
+      "additional_source": null,
+      "new_summary_with_insight": "미국이 엔비디아 AI 칩의 수출 규제를 강화하는 가운데 한국은 예외로 인정받았습니다. 이는 AI 산업의 글로벌 공급망에 대한 정책 변화와 그 영향력을 시사합니다. 한국이 예외로 인정받은 것은 AI 기술 분야에서의 국제적 협력과 경쟁력 강화를 의미합니다.",
+      "date": "2025-01-13"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "ESG_소식": [
+    {
+      "id": 1,
+      "title": "Manufacturing Decarbonization Startup Karman Industries Raises $7.5 Million",
+      "media_name": "ESG Today",
+      "link": "https://www.esgtoday.com/manufacturing-decarbonization-startup-karman-industries-raises-7-5-million/?utm_source=rss&utm_medium=rss&utm_campaign=manufacturing-decarbonization-startup-karman-industries-raises-7-5-million",
+      "additional_source": null,
+      "new_summary_with_insight": "캘리포니아 기반의 클린테크 스타트업인 Karman Industries가 제조업의 탈탄소화를 목표로 750만 달러의 추가 벤처 투자 자금을 확보했습니다. 이 회사는 산업 열로 인한 배출을 줄이고 제조비용을 절감하기 위해 전기 열 펌프 'Thermal01'을 개발했습니다. 이는 산업 현장에서의 스코프 1 배출을 제거하고 비용을 대폭 줄일 수 있는 혁신적인 방법을 제시합니다.",
+      "date": "2025-01-08"
+    },
+    {
+      "id": 2,
+      "title": "Optera, SPS Commerce Launch Solution Enabling Retailers to Collect Emissions Data from Supply Chain",
+      "media_name": "ESG Today",
+      "link": "https://www.esgtoday.com/optera-sps-commerce-launch-solution-enabling-retailers-to-collect-emissions-data-from-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=optera-sps-commerce-launch-solution-enabling-retailers-to-collect-emissions-data-from-supply-chain",
+      "additional_source": null,
+      "new_summary_with_insight": "지속가능성 관리 솔루션 제공업체 Optera와 소매 네트워크 SPS Commerce가 소매업체들이 공급망 배출 데이터를 수집할 수 있도록 돕는 새로운 솔루션을 출시했습니다. 이는 공급망 배출이 평균 운영 배출의 11배 이상이라는 CDP 데이터에 기반한 것입니다. 이 솔루션은 데이터를 통합하고, 공급업체와의 협력을 통해 환경 영향을 줄이는 데 중점을 두고 있습니다.",
+      "date": "2025-01-08"
+    },
+    {
+      "id": 3,
+      "title": "Deep Sky, Low Carbon to Power Carbon Removal Project with 100% Renewable Energy",
+      "media_name": "ESG Today",
+      "link": "https://www.esgtoday.com/deep-sky-low-carbon-to-power-carbon-removal-project-with-100-renewable-energy/?utm_source=rss&utm_medium=rss&utm_campaign=deep-sky-low-carbon-to-power-carbon-removal-project-with-100-renewable-energy",
+      "additional_source": null,
+      "new_summary_with_insight": "영국의 재생 에너지 투자자 겸 운영자인 Low Carbon이 캐나다의 탄소 제거 프로젝트 개발업체 Deep Sky와 100% 태양광 에너지로 첫 시설을 운영하기 위한 전력 구매 계약을 체결했습니다. 이는 캐나다 Lethbridge 1 프로젝트에서 공급되는 전력을 통해 이루어질 예정입니다. 이러한 협력은 재생 에너지 혁명을 가속화하고 배출 감소를 통해 경제의 탈탄소화에 기여할 것으로 기대됩니다.",
+      "date": "2025-01-08"
+    },
+    {
+      "id": 4,
+      "title": "Tangible Raises $3 Million to Measure, Reduce Carbon Emissions in Building Materials and Construction",
+      "media_name": "ESG Today",
+      "link": "https://www.esgtoday.com/tangible-raises-3-million-to-measure-reduce-carbon-emissions-from-building-materials-and-construction/?utm_source=rss&utm_medium=rss&utm_campaign=tangible-raises-3-million-to-measure-reduce-carbon-emissions-from-building-materials-and-construction",
+      "additional_source": null,
+      "new_summary_with_insight": "건설 탈탄소화 소프트웨어 스타트업 Tangible이 건축 자재 및 건설에서 발생하는 탄소 배출을 줄이기 위해 300만 달러의 자금을 확보했습니다. 이 회사는 건설 과정에서 사용된 탄소의 양을 측정하고, 이를 줄일 수 있는 기회를 제공하는 플랫폼을 개발했습니다. 이러한 노력은 건설 산업의 환경 영향을 줄이고 지속 가능한 건설을 촉진하는 데 기여합니다.",
+      "date": "2025-01-08"
+    }
+  ],
+  "AI_소식": [
+    {
+      "id": 1,
+      "title": "SKT's Aster Paves the Way for North American Entry as a 'Global AI Agent'",
+      "media_name": "Korea IT Times",
+      "link": "https://www.koreaittimes.com/news/articleView.html?idxno=137479",
+      "additional_source": null,
+      "new_summary_with_insight": "SK텔레콤이 CES 2025에서 글로벌 개인 AI 에이전트 '에스터'를 공개하며 북미 시장 진출을 위한 첫 발을 내딛었습니다. 에스터는 기존 AI 에이전트 '에이닷'을 잇는 제품으로, SKT의 북미 시장 확장을 목표로 하고 있습니다. 이 AI 에이전트는 다양한 서비스 기능을 제공하며, 인공지능 기술을 활용한 차세대 서비스로 기대를 모으고 있습니다.",
+      "date": "2025-01-09"
+    },
+    {
+      "id": 2,
+      "title": "美, 엔비디아 AI 칩 수출 3단계 추가 규제...한국은 예외 인정",
+      "media_name": "글로벌이코노믹",
+      "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025010907561993526b49b9d1da_1/article.html",
+      "additional_source": null,
+      "new_summary_with_insight": "조 바이든 미국 대통령 정부가 엔비디아 AI 칩의 수출을 중국과 러시아 등의 적대국에 대해 추가로 규제하기로 결정했습니다. 하지만 한국은 예외로 인정받아 AI 칩을 제한 없이 구매할 수 있습니다. 이는 미국의 동맹국에 대한 신뢰와 기술 협력을 반영한 조치로 평가됩니다.",
+      "date": "2025-01-09"
+    },
+    {
+      "id": 3,
+      "title": "젠슨 황, \"세상의 모든 로봇을 위한 AI 플랫폼 구축\"",
+      "media_name": "그린포스트코리아",
+      "link": "http://www.greenpostkorea.co.kr/news/articleView.html?idxno=223235",
+      "additional_source": null,
+      "new_summary_with_insight": "엔비디아의 젠슨 황 CEO는 CES 2025에서 AI 로봇 개발을 위한 플랫폼 '코스모스'를 공개했습니다. 이 플랫폼은 기업들이 로봇과 자율주행차를 개발할 수 있도록 돕는 '물리적 AI' 플랫폼으로, AI 기술의 새로운 가능성을 제시하고 있습니다. 이러한 기술은 다양한 산업에서 로봇의 활용을 촉진할 것으로 기대됩니다.",
+      "date": "2025-01-09"
+    }
+  ]
+}

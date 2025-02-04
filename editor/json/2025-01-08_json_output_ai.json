@@ -1,0 +1,58 @@
+{
+  "AI_소식": [
+    {
+      "id": 1,
+      "title": "엠젠솔루션, AI자율주행 소방로봇 개발중..화재탐지진압 기능",
+      "media_name": "파이낸셜뉴스",
+      "link": "http://www.fnnews.com/news/202501080957391155",
+      "additional_source": "https://www.newsis.com/view/NISX20250108_0003024844",
+      "new_summary_with_insight": "엠젠솔루션은 AI 기반의 자율주행 소방로봇을 개발 중입니다. 이 로봇은 경사, 요철, 방지턱 등 장애물을 통과할 수 있으며, 예측 및 의사결정 시스템을 통해 화재 탐지 및 진압 기능을 수행합니다. 이는 소방뿐만 아니라 경비 순찰 역할까지 가능하게 하여 인건비를 절감할 수 있는 잠재력을 지니고 있습니다.",
+      "date": "2025-01-08"
+    },
+    {
+      "id": 2,
+      "title": "삼성, AI로봇 '볼리' 상반기 출시… LG, MS와 파트너십 [CES 2025]",
+      "media_name": "파이낸셜뉴스언론사 선정",
+      "link": "http://www.fnnews.com/news/202501071906127330",
+      "additional_source": "https://www.joongang.co.kr/article/25305896",
+      "new_summary_with_insight": "삼성전자는 AI 로봇 '볼리'를 올해 상반기 중 출시할 계획이며, 이는 LG전자의 이동형 AI홈 허브 'Q9'와 함께 CES 2025에서 주목받았습니다. 볼리는 가정 내에서 자율적으로 움직이며 다양한 가전 기기와 상호작용할 수 있는 것으로 알려졌습니다. 이러한 AI 로봇은 집안의 편리함을 증대시키고, 사용자 경험을 혁신할 것으로 기대됩니다.",
+      "date": "2025-01-08"
+    },
+    {
+      "id": 3,
+      "title": "젠슨 황 \"최태원과 내일 만날 것...삼성, HBM 공급 확신\"(종합)",
+      "media_name": "파이낸셜뉴스언론사 선정",
+      "link": "http://www.fnnews.com/news/202501080435312235",
+      "additional_source": "https://www.hankyung.com/article/202501082127i",
+      "new_summary_with_insight": "엔비디아의 젠슨 황 CEO는 CES 2025에서 삼성전자가 고대역폭메모리(HBM) 공급에 성공할 것이라고 확신한다고 밝혔습니다. 이는 엔비디아와의 협력을 통해 삼성전자가 메모리 시장에서 입지를 강화할 수 있는 중요한 기회로 작용할 것입니다. HBM은 AI 및 고성능 컴퓨팅에 필수적인 메모리로, 성공적인 공급은 기술 발전에 큰 영향을 미칠 것입니다.",
+      "date": "2025-01-08"
+    },
+    {
+      "id": 4,
+      "title": "온코크로스, 전세계 '긴장' 넥스트 팬데믹 '획기적인 AI기술로 막는다'",
+      "media_name": "파이낸셜뉴스",
+      "link": "http://www.fnnews.com/news/202501081047486850",
+      "additional_source": null,
+      "new_summary_with_insight": "온코크로스는 AI 기술을 활용하여 백신 개발 시간을 단축하는 솔루션을 개발 중입니다. 이 기술은 유전자 발현 데이터를 분석하여 최적의 질병과 치료제를 매칭하는 역할을 하며, 팬데믹 발생 시 신속한 대응을 가능하게 합니다. AI의 이러한 활용은 전 세계적인 건강 위기를 효과적으로 관리할 수 있는 잠재력을 지니고 있습니다.",
+      "date": "2025-01-08"
+    },
+    {
+      "id": 5,
+      "title": "트럼프, AI 인프라 구축 박차…대규모 외국인 투자 유치",
+      "media_name": "이코노미스트언론사 선정",
+      "link": "http://www.economist.co.kr/article/view/ecn202501080020",
+      "additional_source": null,
+      "new_summary_with_insight": "도널드 트럼프 미국 대통령 당선인은 AI 인프라 구축을 위해 대규모 외국인 투자를 유치할 계획입니다. 이 계획은 10억 달러 이상의 투자를 유치하여 AI 관련 일자리를 창출하는 것을 목표로 합니다. 이는 미국 내 AI 산업의 발전을 가속화하고 글로벌 경쟁력을 강화하는 데 기여할 것입니다.",
+      "date": "2025-01-08"
+    },
+    {
+      "id": 6,
+      "title": "SKT's Aster Paves the Way for North American Entry as a 'Global AI Agent'",
+      "media_name": "Korea IT Times",
+      "link": "https://www.koreaittimes.com/news/articleView.html?idxno=137479",
+      "additional_source": null,
+      "new_summary_with_insight": "SK텔레콤은 글로벌 AI 에이전트 '에스터'를 CES 2025에서 처음 공개하며 북미 시장 진출을 준비하고 있습니다. 에스터는 AI 기반의 개인 비서로, 사용자의 일상 관리에 도움을 줄 수 있는 기능을 갖추고 있습니다. 이러한 서비스는 글로벌 시장에서 SK텔레콤의 경쟁력을 강화할 수 있는 중요한 발판이 될 것으로 보입니다.",
+      "date": "2025-01-08"
+    }
+  ]
+}

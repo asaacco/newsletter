@@ -1,0 +1,67 @@
+{
+  "AI_소식": [
+    {
+      "id": 1,
+      "title": "Micron’s rapid gains in HBM and DRAM rattle South Korean rivals",
+      "media_name": "조선일보",
+      "link": "https://www.chosun.com/english/industry-en/2025/01/16/6J7JMUH2RBDT3IJUXSI4ZUIZEA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "additional_source": null,
+      "new_summary_with_insight": "마이크론이 HBM3E 8단 칩을 엔비디아에 공급하면서 경쟁력을 강화하고 있다. SK하이닉스와의 경쟁에서 뒤처져 있지만, 16단 칩의 출시를 준비하고 있다. 이는 AI 반도체 시장에서의 경쟁력을 지속적으로 강화하려는 전략의 일환으로 보인다.",
+      "date": "2025-01-16"
+    },
+    {
+      "id": 2,
+      "title": "자율주행 로봇으로 지하자원 탐사한다",
+      "media_name": "파이낸셜뉴스",
+      "link": "http://www.fnnews.com/news/202501151132073840",
+      "additional_source": "https://www.sedaily.com/NewsView/2GNPR7CNOT",
+      "new_summary_with_insight": "한국지질자원연구원이 자율주행 로봇을 활용한 지하자원 탐사 기술을 개발했다. 이 기술은 탐사 인력의 부족 문제를 해결하고, 탐사의 효율성을 높일 것으로 기대된다. 특히, 탐사 로봇은 광대역 전자기장 송신 안테나를 사용하여 지하의 자원을 확인할 수 있다.",
+      "date": "2025-01-16"
+    },
+    {
+      "id": 3,
+      "title": "DH오토웨어, 차세대 자율주행 통신 기술 상용화 쾌거 \"데이터 초고속·무...",
+      "media_name": "파이낸셜뉴스",
+      "link": "http://www.fnnews.com/news/202501151451380204",
+      "additional_source": "https://www.etnews.com/20250115000369",
+      "new_summary_with_insight": "DH오토웨어가 자율주행 차량의 V2X 및 IVN 간 초고속 무손실 연동 기술을 개발하며 상용화에 성공했다. 이 기술은 자율주행차의 내부와 외부 데이터를 통합하여 실시간으로 주행환경을 분석할 수 있게 한다. 이는 자율주행 기술의 발전에 큰 기여를 할 것으로 보인다.",
+      "date": "2025-01-16"
+    },
+    {
+      "id": 4,
+      "title": "소니드, 폭발물 탐지 및 로봇 사업 수혜 기대감에 4%대 강세 [특징주]",
+      "media_name": "파이낸셜뉴스",
+      "link": "http://www.fnnews.com/news/202501161321315968",
+      "additional_source": null,
+      "new_summary_with_insight": "소니드가 자율주행 기술을 활용한 폭발물 탐지 로봇을 개발 중이다. 이 로봇은 나노광학센서를 이용하여 금속 및 비금속 지뢰를 탐지할 수 있는 기술을 탑재하고 있다. 이러한 기술적 진보는 향후 다양한 산업에서 활용될 가능성이 높아 보인다.",
+      "date": "2025-01-16"
+    },
+    {
+      "id": 5,
+      "title": "\"AI 등 협력 강화\" 메가존클라우드, AWS 장기 협력 파트너 됐다",
+      "media_name": "파이낸셜뉴스",
+      "link": "http://www.fnnews.com/news/202501161417506413",
+      "additional_source": "http://www.itdaily.kr/news/articleView.html?idxno=230434",
+      "new_summary_with_insight": "메가존클라우드가 AWS와 전략적 협력 협약을 체결하여 AI 혁신 가속화, 클라우드 마이그레이션, 글로벌 시장 진출을 추진할 계획이다. 이 협약은 기업들이 AI를 활용한 비즈니스 성과를 강화할 수 있는 기회를 제공한다. 산업별 AI 활용 사례 확산이 기대된다.",
+      "date": "2025-01-16"
+    },
+    {
+      "id": 6,
+      "title": "우림피티에스, 글로벌 빅테크들 로봇전쟁 본격화 '핵심부품 감속기' 중...",
+      "media_name": "파이낸셜뉴스",
+      "link": "http://www.fnnews.com/news/202501161422345136",
+      "additional_source": null,
+      "new_summary_with_insight": "우림피티에스가 글로벌 빅테크 기업들의 로봇전쟁에서 핵심 부품인 감속기를 확보하고 있다. 이는 로봇 산업의 자국화와 경쟁력 강화를 위한 노력의 일환으로, 국내 로봇 기업들이 글로벌 시장에서의 경쟁력을 높일 수 있는 기회로 작용할 것이다.",
+      "date": "2025-01-16"
+    },
+    {
+      "id": 7,
+      "title": "유명 AI학회 'EMNLP'에서 성과 발표한 이 은행",
+      "media_name": "파이낸셜뉴스",
+      "link": "http://www.fnnews.com/news/202501161601335134",
+      "additional_source": "https://economist.co.kr/article/view/ecn202501160038",
+      "new_summary_with_insight": "카카오뱅크가 EMNLP 2024에서 대규모 언어 모델 관련 연구 성과를 발표하며 국제적인 인정을 받았다. 이는 카카오뱅크의 AI 기술력이 세계적으로 인정받고 있음을 보여준다. 앞으로 금융 분야에서 이러한 기술이 어떻게 활용될지 주목된다.",
+      "date": "2025-01-16"
+    }
+  ]
+}

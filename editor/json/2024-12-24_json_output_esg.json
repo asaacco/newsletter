@@ -1,0 +1,78 @@
+{
+  "ESG_소식": [
+    {
+      "id": 1,
+      "title": "월마트도 넷제로 피보팅...2030년 탄소배출 감축목표 철회 예고",
+      "media_name": "임팩트온",
+      "link": "http://www.impacton.net/news/articleView.html?idxno=13485",
+      "additional_source": "https://www.esgtoday.com/walmart-to-miss-2025-2030-climate-targets/",
+      "new_summary_with_insight": "월마트가 2030년까지의 탄소배출 감축 목표를 철회할 가능성을 예고했습니다. 이는 2040년까지 넷제로 배출량을 달성하려는 장기 목표에는 변화가 없지만, 단기 목표의 조정은 불가피한 상황입니다. 월마트의 이러한 결정은 저탄소 기술의 발전 지연과 같은 외부 요인에 기인하며, 향후 지속 가능한 에너지 사용 증가와 같은 대책이 필요합니다.",
+      "date": "2024-12-24"
+    },
+    {
+      "id": 2,
+      "title": "탄소중립포인트제 참여자 3년만에 180만명 돌파",
+      "media_name": "ESG경제",
+      "link": "https://www.esgeconomy.com/news/articleView.html?idxno=9362",
+      "additional_source": "https://www.mk.co.kr/article/11202229",
+      "new_summary_with_insight": "환경부가 주도하는 탄소중립포인트제가 3년 만에 180만 명의 참여자를 돌파하였습니다. 이 제도는 일상생활에서의 탄소중립 실천을 장려하기 위해 현금처럼 사용할 수 있는 포인트를 제공하는 프로그램입니다. 내년부터는 공영자전거 이용 및 잔반제로 실천 항목을 추가 도입하여, 더 많은 국민들의 참여를 유도할 계획입니다.",
+      "date": "2024-12-24"
+    },
+    {
+      "id": 3,
+      "title": "고려아연, '2024 한국 ESG대상' 수상",
+      "media_name": "브릿지경제",
+      "link": "https://www.viva100.com/article/20241224500602",
+      "additional_source": null,
+      "new_summary_with_insight": "고려아연이 2024 한국 ESG대상을 수상했습니다. 이는 신재생에너지 및 그린수소 사업을 통해 친환경 에너지 전환을 가속화하고 자원순환 사업을 선도하는 등 ESG경영 활동의 중요성을 인정받은 결과입니다. 앞으로도 지속 가능한 경영을 통해 환경보호와 기업의 사회적 책임을 강화할 계획입니다.",
+      "date": "2024-12-24"
+    },
+    {
+      "id": 4,
+      "title": "LG전자, 13년 연속 DJSI 월드 편입 ... 'ESG 경영 상위 10%'",
+      "media_name": "전자신문",
+      "link": "https://www.etnews.com/20241224000068",
+      "additional_source": "http://www.edaily.co.kr/news/newspath.asp?newsid=01840086639121800",
+      "new_summary_with_insight": "LG전자가 13년 연속 다우존스 지속가능경영지수(DJSI) 월드에 편입되며, ESG 경영 상위 10%에 속하게 되었습니다. 이는 탄소중립과 재생에너지 전환 등 지속 가능한 경영 목표를 달성하기 위한 노력의 결과로 평가됩니다. 앞으로도 ESG 경영을 통해 사회적 책임을 강화하고 지속 가능한 성장을 추구할 계획입니다.",
+      "date": "2024-12-24"
+    },
+    {
+      "id": 5,
+      "title": "삼성전기, 국내 최초 ESG 성과 세웠다... 'DJSI 월드 지수'에 16년 연속 ...",
+      "media_name": "녹색경제신문",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=321495",
+      "additional_source": "http://www.g-enews.com/ko-kr/news/article/news_all/202412230835517998290c42db76_1/article.html",
+      "new_summary_with_insight": "삼성전기는 16년 연속 다우존스 지속가능경영지수(DJSI) 월드에 편입되며 국내 ESG 경영의 선두주자로 자리매김하고 있습니다. 이 성과는 지속 가능한 가치 창출을 위한 노력의 일환으로, 다양한 지속가능경영 평가기관으로부터 인정받고 있습니다. 이로써 삼성전기는 글로벌 시장에서의 경쟁력을 강화하며 ESG 경영을 통해 사회적 책임을 다하고 있습니다.",
+      "date": "2024-12-24"
+    }
+  ],
+  "DX/AI_소식": [
+    {
+      "id": 1,
+      "title": "문서 AI와 Solar LLM을 통한 산업 혁신 : 업스테이지 [긱스]",
+      "media_name": "한국경제",
+      "link": "https://www.hankyung.com/article/202412222986i",
+      "additional_source": null,
+      "new_summary_with_insight": "업스테이지의 문서 AI 솔루션은 글로벌 빅테크 기업들의 솔루션보다 높은 데이터 추출 성공률을 자랑하며, 산업 전반에 걸쳐 혁신을 이루고 있습니다. 특히, 대규모 언어모델(LLM)인 SOLAR를 통해 법률 사무소와 같은 분야에서 핵심 조항 추출을 자동화하여 업무 효율을 크게 향상시키고 있습니다. 이러한 기술 발전은 AI가 다양한 산업 분야의 업무 프로세스를 혁신하고 있는 좋은 사례로 평가됩니다.",
+      "date": "2024-12-24"
+    },
+    {
+      "id": 2,
+      "title": "MS와의 협업에 사활 건 KT클라우드",
+      "media_name": "한국경제",
+      "link": "https://www.hankyung.com/article/2024122350301",
+      "additional_source": null,
+      "new_summary_with_insight": "KT클라우드는 MS와의 협업을 통해 클라우드 전환을 추진하며, 이를 위한 본부급 조직을 신설하는 등 전략적 행보를 보이고 있습니다. 이러한 협업은 KT그룹 계열사의 디지털 전환을 가속화하고, 클라우드 시장에서의 경쟁력을 강화하는 데 기여할 것입니다. MS와의 협력은 KT클라우드의 미래 성장 동력으로 작용할 전망입니다.",
+      "date": "2024-12-24"
+    },
+    {
+      "id": 3,
+      "title": "하이비젼시스템, 파마리서치에 시약 이물 자동화 검사 설비 출하",
+      "media_name": "한국경제",
+      "link": "https://www.hankyung.com/article/2024122336706",
+      "additional_source": null,
+      "new_summary_with_insight": "하이비젼시스템은 파마리서치에 시약 이물 자동화 검사 설비를 출하하며, 바이알 시약병의 고속 정밀 검사를 가능케 했습니다. 이 설비는 의료 분야의 품질 관리에 큰 기여를 할 것으로 기대되며, 하이비젼시스템은 이러한 기술력을 바탕으로 시장에서의 입지를 강화할 계획입니다. 이와 같은 자동화 설비는 의료 분야의 혁신을 이끄는 주요 요소로 작용하고 있습니다.",
+      "date": "2024-12-24"
+    }
+  ]
+}

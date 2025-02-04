@@ -1,0 +1,49 @@
+ASAAC 일일 뉴스 브리핑 (ESG/DX)
+
+"아침 사과 같은 ASAAC한 소식을 전합니다."
+
+# ESG 동향 
+
+1/ JPMorgan Leaves Net Zero Banking Group, Completing Departure of Major U.S. Banks [ESG Today] (2025-01-07)
+JP모건은 넷제로 은행 연합에서 탈퇴했으며, 이는 주요 미국 은행들의 연쇄적인 탈퇴의 마지막 사례입니다. 넷제로 은행 연합은 기후변화에 대응하기 위해 설립된 유엔 지원 연합으로, JP모건의 탈퇴는 연합의 영향력에 대한 의문을 제기할 수 있습니다. 이러한 미국 은행들의 탈퇴는 에너지 안보 및 저탄소 경제로의 전환을 둘러싼 은행들의 전략적 선택을 반영합니다.
+* 해당 기사: https://www.esgtoday.com/jpmorgan-leaves-net-zero-banking-group-completing-departure-of-major-u-s-banks/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-leaves-net-zero-banking-group-completing-departure-of-major-u-s-banks
+* 다른 기사: http://www.g-enews.com/ko-kr/news/article/news_all/2025010805234939353bc914ac71_1/article.html
+
+2/ Mars Targets Segregated Responsibly Sourced Cocoa Supply Chain by 2030 [ESG Today] (2025-01-07)
+Mars는 2030년까지 책임 있게 조달된 코코아 공급망의 분리를 목표로 하고 있습니다. 이는 코코아 생산 과정에서 발생할 수 있는 환경 및 인권 문제를 해결하기 위한 조치입니다. Mars의 이러한 계획은 지속 가능성에 대한 글로벌 기업들의 책임 있는 행동을 강조하며, 공급망 투명성을 높여 환경 보호와 인권 존중을 강화하려는 노력을 보여줍니다.
+* 해당 기사: https://www.esgtoday.com/mars-targets-segregated-responsibly-sourced-cocoa-supply-chain-by-2030/?utm_source=rss&utm_medium=rss&utm_campaign=mars-targets-segregated-responsibly-sourced-cocoa-supply-chain-by-2030
+
+3/ 한국ESG평가원 "영풍보다 고려아연 현 경영진이 우월해" [글로벌이코노믹] (2025-01-08)
+한국ESG평가원은 고려아연 현 경영진의 임시 주주총회 제안 안건을 전폭 지지하며, 영풍보다 현 경영진이 장기적으로 더 바람직하다고 평가했습니다. 이는 기업의 지속 가능성과 주주 권익 보호 측면에서 현재 경영진의 역할을 강조하는 것입니다. 이러한 지지는 ESG 기준에서의 경영진의 중요성을 부각시키며, 기업의 장기 성장에 있어서 경영진의 방향성과 의사결정이 중요함을 보여줍니다.
+* 해당 기사: http://www.g-enews.com/ko-kr/news/article/news_all/2025010716423560993fe8821aee_1/article.html
+* 다른 기사: https://zdnet.co.kr/view/?no=20250107152938
+
+4/ 서울여대, ESG 인재 양성 위한 ‘소셜임팩트스쿨’ 3기 성과 발표 [브릿지경제] (2025-01-08)
+서울여자대학교는 포스코와 협력하여 ESG 인재 양성을 위한 '소셜임팩트스쿨'의 3기 성과를 발표했습니다. 학생들은 순환자원과 AI 융합 환경교육을 주제로 프로젝트를 수행하며, 지속 가능한 미래를 위한 실질적인 해결책을 탐구했습니다. 이는 교육기관이 ESG 교육을 통해 지속 가능한 사회를 구축하는 데 기여할 수 있음을 보여주며, 미래 세대의 역할을 강조합니다.
+* 해당 기사: https://www.viva100.com/article/20250107501018
+
+
+# AI/DX 동향 
+
+1/ 유일로보틱스, 포스코엠텍과 '포장설비 로봇자동화' 설계 계약 체결 [글로벌이코노믹] (2025-01-08)
+유일로보틱스는 포스코엠텍과 철강코일 포장라인시스템의 로봇자동화 설계 계약을 체결했습니다. 이는 양사가 지난해 자동화R&D센터에서 협약한 기술 개발의 연장선으로, 로봇 자동화를 통해 생산성을 높이려는 시도입니다. 이러한 협력은 제조업의 디지털 전환을 가속화하며, 향후 다양한 산업에 로봇 기술이 적용될 가능성을 열어줍니다.
+* 해당 기사: http://www.g-enews.com/ko-kr/news/article/news_all/202501070920506905edf69f862c_1/article.html
+* 다른 기사: https://zdnet.co.kr/view/?no=20250107100725
+
+2/ [CES 2025] 삼성·LG 필두로 'AI 홈 로봇' 산업 뜬다 [글로벌이코노믹] (2025-01-08)
+CES 2025에서 삼성과 LG를 필두로 AI 홈 로봇 산업이 주목받고 있습니다. 이러한 로봇들은 가정에서의 다양한 작업을 자동화하고 사용자와 상호작용할 수 있는 기능을 제공합니다. AI 기술의 발전으로 가정용 로봇은 사용자 경험을 혁신하고 생활 편의를 증대시키며, 향후 시장에서 중요한 위치를 차지할 것으로 기대됩니다.
+* 해당 기사: http://www.g-enews.com/ko-kr/news/article/news_all/202501071440554171ea588b1547_1/article.html
+
+3/ 젠슨 황, '코스모스 AI' 모델로 로봇 훈련 혁신 예고 [글로벌이코노믹] (2025-01-08)
+엔비디아의 젠슨 황은 '코스모스 AI' 모델을 통해 로봇 훈련의 혁신을 예고했습니다. 이는 AI와 로봇공학의 발전을 가속화하고, 보다 현실적이고 효율적인 로봇 시스템 개발을 가능하게 할 것입니다. AI 기술을 활용한 이러한 발전은 다양한 산업에서 로봇의 활용도를 높이고, 자동화의 새로운 시대를 열어갈 것입니다.
+* 해당 기사: http://www.g-enews.com/ko-kr/news/article/news_all/202501071401466909e250e8e188_1/article.html
+
+4/ 마이크로소프트, 인도에 4조원 이상 AI 투자 약속 [글로벌이코노믹] (2025-01-08)
+마이크로소프트는 인도에서 AI 기능을 확장하기 위해 30억 달러(약 4조3800억 원)를 투자할 계획입니다. 이는 인도의 AI 산업 발전을 촉진하고, 클라우드 컴퓨팅 인프라를 강화하려는 전략의 일환입니다. 이러한 투자는 인도의 디지털 경제를 견인하고, 글로벌 AI 경쟁력 강화에 기여할 것으로 보입니다.
+* 해당 기사: http://www.g-enews.com/ko-kr/news/article/news_all/2025010805155552713bc914ac71_1/article.html
+
+ASAAC Co.
+* 출처: linkedin.com/company/asaac
+* 더 자세한 ESG/DX 관련 뉴스 기사 및 인사이트 (asaac)
+* https://open.kakao.com/o/grtDi31g
+Copyright 2025. ASAAC Co. all rights reserved.

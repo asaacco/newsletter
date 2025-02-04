@@ -1,0 +1,42 @@
+```json
+{
+  "AI_소식": [
+    {
+      "id": 1,
+      "title": "롯데칠성음료, AI 활용 '제품 라벨 표시 검토 시스템' 구축",
+      "media_name": "파이낸셜뉴스",
+      "link": "http://www.fnnews.com/news/202502031433585158",
+      "additional_source": "https://www.ceoscoredaily.com/page/view/2025020310223050377",
+      "new_summary_with_insight": "롯데칠성음료가 생성형 AI를 활용해 제품 라벨 표시 검토 시스템을 구축하며, 기존의 수작업 방식에서 벗어나 업무 효율성을 높였습니다. 이 시스템은 QCR과 AI 에이전트 기술을 통해 독립적으로 데이터를 분석하고 오류를 검증합니다. AI 활용을 통한 업무 자동화는 식품업계의 혁신을 가속화할 것으로 보입니다.",
+      "date": "2025-02-03"
+    },
+    {
+      "id": 2,
+      "title": "이시바·손정의·올트먼 도쿄 회동, 日 AI 인프라 개발 속도",
+      "media_name": "파이낸셜뉴스",
+      "link": "http://www.fnnews.com/news/202502031323543056",
+      "additional_source": null,
+      "new_summary_with_insight": "일본 소프트뱅크그룹과 오픈AI가 일본에서 AI 인프라 구축을 위한 대규모 프로젝트를 시작합니다. 이는 트럼프 대통령과 발표한 AI 인프라 투자 계획의 일본판으로 평가됩니다. 일본 내 AI 인프라 개발은 기술 경쟁력을 강화할 것으로 보입니다.",
+      "date": "2025-02-03"
+    },
+    {
+      "id": 3,
+      "title": "AWS, 딥시크 R1 모델 제공 시작…생성형 AI 활용 확장 지원",
+      "media_name": "파이낸셜뉴스",
+      "link": "http://www.fnnews.com/news/202502031100356061",
+      "additional_source": "http://www.itdaily.kr/news/articleView.html?idxno=230712",
+      "new_summary_with_insight": "아마존웹서비스는 딥시크 R1 모델을 아마존 베드록과 세이지메이커 AI에서 제공하며, 생성형 AI 활용을 확장 지원합니다. 이는 클라우드 기반의 AI 서비스 통합을 용이하게 만들어 다양한 산업 분야에 걸쳐 AI 도입을 촉진할 것입니다. 생성형 AI의 확산은 산업 전반에 걸쳐 혁신을 가속화할 것으로 보입니다.",
+      "date": "2025-02-03"
+    },
+    {
+      "id": 4,
+      "title": "SK네트웍스, AI 중심 사업지주사로 경쟁력 강화에 집중",
+      "media_name": "한국경제",
+      "link": "https://www.hankyung.com/article/2025020386481",
+      "additional_source": null,
+      "new_summary_with_insight": "SK네트웍스는 AI 중심의 사업지주사로 전환하며, 2025년을 미래 성장을 위한 원년으로 삼겠다는 목표를 세웠습니다. AI, 로보틱스, 딥테크 분야의 전문성을 바탕으로 알파 인텔리전스 펀드를 통해 유망 사업에 집중 투자할 계획입니다. 이러한 전략은 SK네트웍스의 장기적인 경쟁력 강화에 기여할 것으로 보입니다.",
+      "date": "2025-02-03"
+    }
+  ]
+}
+```

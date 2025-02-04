@@ -1,0 +1,38 @@
+ASAAC 일일 뉴스 브리핑 (ESG/AI)
+
+"아침 사과 같은 ASAAC한 소식을 전합니다."
+
+# ESG 동향 
+
+1/ Apollo, Standard Chartered Launch $3 Billion Energy Transition Financing Partnership [ESG Today] (2025-01-14)
+Apollo와 Standard Chartered는 글로벌 에너지 전환을 가속화하기 위해 새로운 금융 파트너십을 발표했습니다. 이번 협력을 통해 두 회사는 청정 에너지 및 지속 가능한 산업으로의 전환을 위한 자금을 제공할 예정입니다. 이 파트너십은 지속 가능한 투자 확대의 중요한 이정표로, 글로벌 금융 시장에서 지속 가능성의 중요성을 높이고 있습니다.
+* 해당 기사: https://www.esgtoday.com/apollo-standard-chartered-launch-3-billion-energy-transition-financing-partnership/
+
+2/ NatureMetrics Raises $25 Million to Scale Biodiversity Monitoring and Reporting Platform [ESG Today] (2025-01-14)
+영국의 생물다양성 모니터링 솔루션 제공업체인 NatureMetrics가 2500만 달러의 투자금을 유치했습니다. 이 회사는 생물다양성 데이터 플랫폼을 확장하고 국제적 범위를 넓혀 기업과 보전 고객의 증가하는 데이터 요구에 대응할 예정입니다. 이는 기업들이 자연에 미치는 영향을 측정하고 보고하는 데 있어 새로운 기준을 설정할 것입니다.
+* 해당 기사: https://www.esgtoday.com/biodiversity-data-provider-naturemetrics-raises-25-million/
+
+3/ Meta Ramps Texas Renewable Energy Purchases with Engie to 460 MW [ESG Today] (2025-01-14)
+Meta는 Engie와 협력하여 텍사스에서 460MW의 재생 에너지를 확보했습니다. 이 협력은 Meta의 넷 제로 목표 달성을 위한 중요한 단계로, 텍사스의 다양한 재생 에너지 프로젝트와 연계되어 있습니다. 이는 대규모 기술 기업들이 지속 가능한 에너지 사용을 통해 환경 책임을 강화하는 추세를 보여줍니다.
+* 해당 기사: https://www.esgtoday.com/meta-ramps-texas-renewable-energy-purchases-with-engie-to-460-mw/
+
+
+# AI 동향 
+
+1/ 'AI폰 효과’, 삼성 위태로운 1위…‘갤S25’로 1위 굳힌다 [CEO스코어데일리] (2025-01-15)
+삼성전자는 AI 스마트폰 갤럭시 S24 시리즈의 성공에 힘입어 글로벌 스마트폰 시장에서 1위 자리를 유지했습니다. 그러나 중국 기업들의 추격 속도가 빨라지면서 점유율은 소폭 하락했습니다. 삼성전자는 새로운 AI 스마트폰 갤럭시 S25 시리즈를 통해 시장 점유율을 더욱 공고히 할 계획입니다.
+* 해당 기사: https://www.ceoscoredaily.com/page/view/2025011417272725691
+
+2/ KT, 한국마이크로소프트와 산업계 AI 전환 가속화 워크숍 개최 [Korea IT Times] (2025-01-15)
+KT와 한국마이크로소프트는 산업계의 AI 전환을 가속화하기 위한 협력 워크숍을 개최했습니다. 이 워크숍은 AI와 클라우드 기술을 활용해 디지털 혁신을 추진하며, 2025년을 AI가 일상과 업무에 필수적인 기술로 자리 잡는 전환점으로 삼을 계획입니다. 이러한 협력은 국내 AI 시장에 중요한 시너지를 창출할 것으로 기대됩니다.
+* 해당 기사: https://www.koreaittimes.com/news/articleView.html?idxno=137648
+
+3/ 오픈AI, '챗GPT'에 초기 AI 에이전트 기능 '태스크' 통합 [AI타임스] (2025-01-15)
+오픈AI는 챗GPT에 '태스크'라는 기능을 추가하여 초기 AI 에이전트 기능을 통합했습니다. 이 기능은 알림 설정과 반복 요청 예약을 가능하게 하며, AI 기술의 활용도를 높이고 있습니다. 이는 AI 기술이 일상적인 작업을 자동화하여 사용자의 편의성을 크게 향상시킬 수 있음을 보여줍니다.
+* 해당 기사: https://www.aitimes.com/news/articleView.html?idxno=167158
+
+ASAAC Co.
+* 출처: https://asaac.co.kr
+* 더 자세한 ESG/AI 관련 뉴스 기사 및 인사이트
+* https://open.kakao.com/o/grtDi31g
+Copyright 2025. ASAAC Co. all rights reserved.
