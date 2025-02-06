@@ -25,7 +25,8 @@ def crawl_news(query, yesterday, today, selected_domain):
         logging.error("Invalid domain selected.")
         return []
 
-    media_numbers = configChannel.DOMAINS[selected_domain]
+    media_numbers = configChannel.DOMAINS[selected_domain] + configChannel.DOMAINS['global']
+    print(f"오늘의 미디어 {configChannel.DOMAINS[selected_domain]} | {configChannel.DOMAINS['global']}")
     if not media_numbers:
         logging.warning("No media numbers configured for this domain.")
         return []
