@@ -77,8 +77,8 @@ def crawl_news(query, yesterday, today, selected_domain):
 
             # 다음 페이지로 넘어가기
             page += 10
-            time.sleep(1)  # 서버 과부하 방지를 위해 잠시 대기
-            if page >= 10:  # 최대 페이지 제한
+            time.sleep(2)  # 서버 과부하 방지를 위해 잠시 대기
+            if page >= 40:  # 최대 페이지 제한
                 break
 
         # 매체별 결과를 전체 리스트에 추가
