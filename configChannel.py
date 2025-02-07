@@ -746,8 +746,8 @@ ESG_CHANNEL_NAMES = ["ESG경제", "정책브리핑", "사이문스타임즈",
 AI_CHANNEL_NAMES = ["디일렉", "사이언스타임즈", "AI타임스",
                     "인공지능신문", "전자신문","더벨"]
 
-# 랜덤으로 5개 채널 선택
-GLOBAL_CHANNEL = random.sample(map_channels(GLOBAL_CHANNEL_NAMES), 5)
+# 랜덤으로 3개 채널 선택
+GLOBAL_CHANNEL = random.sample(map_channels(GLOBAL_CHANNEL_NAMES), 3)
 
 # ESG, AI 채널은 모든 채널 포함
 ESG_CHANNEL = map_channels(ESG_CHANNEL_NAMES)
