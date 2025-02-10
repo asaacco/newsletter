@@ -8,6 +8,6 @@ chromedriver-autoinstaller
 pyautogui
 pyperclip
 lxml
-openai
 google-auth
 google-api-python-client
+openai==0.28

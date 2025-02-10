@@ -191,7 +191,7 @@ def fetch_rss_data(url, media_name):
 
         # JSON 형식으로 저장
         articles.append({
-            "title": title,
+            "title": f"[외신] {title}",
             "link": link,
             "summary": summary,
             "date": formatted_date,

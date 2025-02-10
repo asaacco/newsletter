@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import time
 from datetime import datetime, timedelta
 import logging
-from config import DATE_YESTERDAY, DATE_TODAY
+from config import DATE_TODAY
 import configDomain
 import configChannel 
 
@@ -88,7 +88,17 @@ def crawl_news(query, yesterday, today, selected_domain):
     return all_news_list
 
 
+
+
 def fetch_news(selected_domain):
+    # 요일 계산 (0: 월요일, 6: 일요일)
+    weekday = datetime.now().weekday()
+    # 만약 오늘이 월요일이라면, YESTERDAY를 금요일로 설정
+    if weekday == 0:  # 월요일인 경우
+        DATE_YESTERDAY = (datetime.now().replace(hour=0, minute=0, second=0, microsecond=0) - timedelta(days=3)).strftime('%Y.%m.%d')  # 금요일
+    else:
+        DATE_YESTERDAY = (datetime.now().replace(hour=0, minute=0, second=0, microsecond=0) - timedelta(days=1)).strftime('%Y.%m.%d')  # 어제 날짜
+
     # 도메인별 키워드 가져오기
     domain_keywords = configDomain.DOMAINS.get(selected_domain.lower())
     if not domain_keywords:

@@ -2,7 +2,7 @@ from crawler.news_crawler import fetch_news
 from editor.preprocessor import preprocess_news
 from editor.postprocessor import postprocess_news
 from emailer.email_sender import send_email
-from uploader.tistory_uploader import tistory_uploader
+#from uploader.tistory_uploader import tistory_uploader
 from uploader.kakao_uploader import kakao_uploader
 from crawler.rss_news_crawler import crawl_esgnews_rss
 
