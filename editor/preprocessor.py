@@ -60,7 +60,7 @@ def get_chatgpt_response(persona, objective, context, format_rules, domain_knowl
 3. 카테고리가 다르면 절대 중복으로 묶지 않습니다.
 4. 모든 카테고리에 대해 결과(JSON)를 생성하며, 어떤 카테고리도 누락시키면 안 됩니다.
 5. 중복이 아니면 기사들을 절대 제거하지 않고 모두 결과에 포함해야 합니다.
-6. 최종 출력은 카테고리 이름을 key로, 그 안에 대표 기사(및 additional_source)를 담은 배열을 넣되, 포맷 규칙에 맞춰 JSON 형태로 출력하세요.
+6. 최종 출력은 카테고리 이름을 key로, 그 안에 대표 기사(및 additional_source)를 담은 배열을 넣되, 포맷 규칙에 맞춰 JSON 형태로 출력하세요.(json이 아닌 다른건 절때로 포함하지 마세요 예)
 """
         },
         {
