@@ -1,0 +1,40 @@
+{
+    "AI_소식": [
+        {
+            "id": 1,
+            "title": "'가성비 AI' 중국 딥시크, 혁명 속 명과 암",
+            "media_name": "더리브스",
+            "link": "https://www.tleaves.co.kr/news/articleView.html?idxno=7123",
+            "additional_source": null,
+            "new_summary_with_insight": "중국의 딥시크가 저비용 고성능 AI 모델을 출시하여 주목받고 있습니다. 이는 AI 산업의 비용 효율성을 높이는 데 기여할 것으로 기대됩니다.",
+            "date": "2025-02-11"
+        },
+        {
+            "id": 2,
+            "title": "TTA, 범용 AI 안전성 강화를 위한 위험 관리 프레임워크 발표",
+            "media_name": "조선비즈",
+            "link": "https://biz.chosun.com/it-science/ict/2025/02/11/KJ5G73WNINAIRE5JUR4CA3RL6E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "additional_source": null,
+            "new_summary_with_insight": "TTA는 범용 AI의 안전성을 강화하기 위한 위험 관리 프레임워크를 발표했습니다. 이는 AI의 잠재적 위험을 체계적으로 관리하기 위한 기반을 제공할 것으로 예상됩니다.",
+            "date": "2025-02-11"
+        },
+        {
+            "id": 3,
+            "title": "AI 정상회의 개막… 100개국 정상·기업 총수, AI 명암 논의",
+            "media_name": "조선비즈언론사 선정",
+            "link": "https://biz.chosun.com/international/international_general/2025/02/10/5M6IFSH7XNFHFNCES5AMJEL4W4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "additional_source": null,
+            "new_summary_with_insight": "프랑스 파리에서 열린 제3차 AI 정상회의에서 AI의 효과적 사용과 규제 방안이 논의되고 있습니다. 이는 글로벌 AI 정책에 대한 협력과 이해를 증진할 것으로 보입니다.",
+            "date": "2025-02-11"
+        },
+        {
+            "id": 4,
+            "title": "‘AI 정상회의’ 개막… 100개국 정상·기업 총수, AI 명암 논의",
+            "media_name": "조선비즈언론사 선정",
+            "link": "https://biz.chosun.com/international/international_general/2025/02/10/5M6IFSH7XNFHFNCES5AMJEL4W4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "additional_source": null,
+            "new_summary_with_insight": "프랑스 파리에서 열린 제3차 AI 정상회의에서 AI의 효과적 사용과 규제 방안이 논의되고 있습니다. 이는 글로벌 AI 정책에 대한 협력과 이해를 증진할 것으로 보입니다.",
+            "date": "2025-02-11"
+        }
+    ]
+}

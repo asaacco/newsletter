@@ -1,0 +1,80 @@
+{
+    "ESG_소식": [
+        {
+            "id": 1,
+            "title": "HSBC, Julian Wentzel을 새로운 그룹 최고 지속가능성 책임자로 임명",
+            "media_name": "ESG Today",
+            "link": "https://www.esgtoday.com/hsbc-appoints-julian-wentzel-as-new-chief-sustainability-officer/?utm_source=rss&utm_medium=rss&utm_campaign=hsbc-appoints-julian-wentzel-as-new-chief-sustainability-officer",
+            "additional_source": [
+                "https://esgnews.com/hsbc-appoints-julian-wentzel-as-new-group-chief-sustainability-officer/?utm_source=rss&utm_medium=rss&utm_campaign=hsbc-appoints-julian-wentzel-as-new-group-chief-sustainability-officer"
+            ],
+            "new_summary_with_insight": "HSBC는 Julian Wentzel을 새로운 그룹 최고 지속가능성 책임자로 임명했습니다. 이는 지속가능성 전략을 강화하고 지속적인 변화 추진을 위한 의지로 볼 수 있습니다.",
+            "date": "2025-02-10"
+        },
+        {
+            "id": 2,
+            "title": "Salesforce, AI 모델의 에너지 효율성을 측정하는 AI 에너지 스코어 발표",
+            "media_name": "ESG News",
+            "link": "https://esgnews.com/salesforce-partners-unveil-ai-energy-score-to-benchmark-energy-efficiency-of-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-partners-unveil-ai-energy-score-to-benchmark-energy-efficiency-of-ai-models",
+            "additional_source": null,
+            "new_summary_with_insight": "Salesforce는 AI 모델의 에너지 소비를 측정하는 AI 에너지 스코어를 출시했습니다. 이는 AI 모델의 투명성을 높이고 지속가능성을 개선하는 노력으로 평가됩니다.",
+            "date": "2025-02-10"
+        },
+        {
+            "id": 3,
+            "title": "BYD, 유럽 자동차 제조사와 탄소 배출권 판매 협의 중",
+            "media_name": "ESG News",
+            "link": "https://esgnews.com/byd-in-talks-to-sell-carbon-credits-to-european-automakers-to-avoid-eu-emissions-fines/?utm_source=rss&utm_medium=rss&utm_campaign=byd-in-talks-to-sell-carbon-credits-to-european-automakers-to-avoid-eu-emissions-fines",
+            "additional_source": null,
+            "new_summary_with_insight": "BYD는 유럽 자동차 제조사와 탄소 배출권 판매를 위한 협의를 진행하고 있습니다. 이는 EU의 배출 규정을 준수하기 위한 전략적 파트너십 형성의 일환으로 볼 수 있습니다.",
+            "date": "2025-02-10"
+        },
+        {
+            "id": 4,
+            "title": "GCC 국가들, 2030년까지 배출량 20% 감축 목표로 1000억 달러 투자",
+            "media_name": "ESG News",
+            "link": "https://esgnews.com/gcc-nations-pledge-100b-for-renewable-energy-to-cut-emissions-by-20-by-2030/?utm_source=rss&utm_medium=rss&utm_campaign=gcc-nations-pledge-100b-for-renewable-energy-to-cut-emissions-by-20-by-2030",
+            "additional_source": null,
+            "new_summary_with_insight": "GCC 국가들은 2030년까지 배출량을 20% 감축하기 위해 1000억 달러를 재생 에너지에 투자할 계획입니다. 이는 기후 변화에 대한 대응과 에너지 전환을 가속화하려는 노력으로 해석됩니다.",
+            "date": "2025-02-10"
+        }
+    ],
+    "AI_소식": [
+        {
+            "id": 1,
+            "title": "'가성비 AI' 중국 딥시크, 혁명 속 명과 암",
+            "media_name": "더리브스",
+            "link": "https://www.tleaves.co.kr/news/articleView.html?idxno=7123",
+            "additional_source": null,
+            "new_summary_with_insight": "중국의 딥시크가 저비용 고성능 AI 모델을 출시하여 주목받고 있습니다. 이는 AI 산업의 비용 효율성을 높이는 데 기여할 것으로 기대됩니다.",
+            "date": "2025-02-11"
+        },
+        {
+            "id": 2,
+            "title": "TTA, 범용 AI 안전성 강화를 위한 위험 관리 프레임워크 발표",
+            "media_name": "조선비즈",
+            "link": "https://biz.chosun.com/it-science/ict/2025/02/11/KJ5G73WNINAIRE5JUR4CA3RL6E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "additional_source": null,
+            "new_summary_with_insight": "TTA는 범용 AI의 안전성을 강화하기 위한 위험 관리 프레임워크를 발표했습니다. 이는 AI의 잠재적 위험을 체계적으로 관리하기 위한 기반을 제공할 것으로 예상됩니다.",
+            "date": "2025-02-11"
+        },
+        {
+            "id": 3,
+            "title": "AI 정상회의 개막… 100개국 정상·기업 총수, AI 명암 논의",
+            "media_name": "조선비즈언론사 선정",
+            "link": "https://biz.chosun.com/international/international_general/2025/02/10/5M6IFSH7XNFHFNCES5AMJEL4W4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "additional_source": null,
+            "new_summary_with_insight": "프랑스 파리에서 열린 제3차 AI 정상회의에서 AI의 효과적 사용과 규제 방안이 논의되고 있습니다. 이는 글로벌 AI 정책에 대한 협력과 이해를 증진할 것으로 보입니다.",
+            "date": "2025-02-11"
+        },
+        {
+            "id": 4,
+            "title": "‘AI 정상회의’ 개막… 100개국 정상·기업 총수, AI 명암 논의",
+            "media_name": "조선비즈언론사 선정",
+            "link": "https://biz.chosun.com/international/international_general/2025/02/10/5M6IFSH7XNFHFNCES5AMJEL4W4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "additional_source": null,
+            "new_summary_with_insight": "프랑스 파리에서 열린 제3차 AI 정상회의에서 AI의 효과적 사용과 규제 방안이 논의되고 있습니다. 이는 글로벌 AI 정책에 대한 협력과 이해를 증진할 것으로 보입니다.",
+            "date": "2025-02-11"
+        }
+    ]
+}
