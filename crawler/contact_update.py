@@ -1,5 +1,6 @@
 from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
+import os
 
 # Google Sheets API 인증 및 설정
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
