@@ -3,7 +3,20 @@ from googleapiclient.discovery import build
 
 # Google Sheets API 인증 및 설정
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
-SERVICE_ACCOUNT_FILE = 'credentials.json'  # 인증 파일 경로
+
+##########################################################
+#SERVICE_ACCOUNT_FILE = 'credentials.json'  # 인증 파일 경로
+# Load credentials from environment variable
+google_credentials_json = os.getenv("GOOGLE_CREDENTIALS")
+
+if not google_credentials_json:
+    raise ValueError("Environment variable 'GOOGLE_CREDENTIALS' is not set or is empty.")
+
+# Write the credentials to a temporary file
+SERVICE_ACCOUNT_FILE = "/tmp/credentials.json"
+with open(SERVICE_ACCOUNT_FILE, "w") as temp_file:
+    temp_file.write(google_credentials_json)
+##########################################################
 
 # 시트 정보
 SPREADSHEET_ID = '1dlw-fFLB2L9bm0u-brV1mQeyPI0BWtypyUMM8yDPMw0'  # Google Sheet ID
