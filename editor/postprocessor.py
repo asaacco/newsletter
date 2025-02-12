@@ -21,6 +21,8 @@ def shorten_url(original_url):
     api_url = f"https://tinyurl.com/api-create.php?url={original_url}"
     response = requests.get(api_url)
     if response.status_code == 200:
+        print(f"URL 단축 성공: {original_url}")  # Debugging statement
+        print(f"-> {response.text}")  # 단축된 URL을 다음 행에 출력
         return response.text
     else:
         print(f"URL 단축 실패: {original_url}")
@@ -48,11 +50,14 @@ def generate_section(news_list):
     print(news_list)
 
     for article in news_list:
+        # URL 단축 적용
+        shortened_link = shorten_url(escape(article['link']))
+        
         section_html += f'''
         <div class="news-item"><br>
         <div style="border-top: 1px solid #ddd; margin: 0 30px 25px;"></div>
         <span style="font-size: 16px; line-height: 2; font-weight: bold;">
-            <a href="{escape(article['link'])}" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #003366;">{escape(article["title"])}
+            <a href="{shortened_link}" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #003366;">{escape(article["title"])}
             </a>
         </span>
         <span style="font-size: 14px; line-height: 2;">
@@ -61,12 +66,6 @@ def generate_section(news_list):
         <div style="border-top: 0px solid #ddd; margin: 20px 0;"></div>
         <p style="font-size: 14px; line-height: 2;">{article["new_summary_with_insight"]}</p>
         '''
-#           <p>* 해당 기사: <a href="{article["link"]}">{article["link"]}</a></p>
-
-        # 키 존재 여부를 확인하여 안전하게 처리
-#        if article.get("additional_source"):
-#            section_html += f'<p>* 다른 기사: {article["additional_source"]}</p>'
-#        section_html += '</div><br>'
     section_html += '</div>'
     return section_html
 
@@ -108,7 +107,7 @@ def json_to_string(selected_domain, json_file_path: str) -> str:
     html_title = configHtml.DOMAINS.get(selected_domain)
 
     # 헤더 부분
-    lines.append(f"ASAAC 일일 뉴스 브리핑 ({title})\n\n")
+    lines.append(f"ASAAC 일일 뉴스 브리핑 ({title})\n")
     lines.append("\"아침 사과 같은 ASAAC한 소식을 전합니다.\"\n")
 
     for idx, html_title_item in enumerate(html_title):  # 리스트를 순회하며 인덱스와 값 가져오기
@@ -124,7 +123,7 @@ def json_to_string(selected_domain, json_file_path: str) -> str:
                 media_name = news_item.get("media_name", "미디어 정보 없음")
                 date = news_item.get("date", "날짜 정보 없음")
                 summary = news_item.get("new_summary_with_insight", "").strip()
-                link = news_item.get("link", "")
+                link = shorten_url(news_item.get("link", ""))  # 단축 URL 적용
                 additional_source = news_item.get("additional_source", None)  # 추가 기사 데이터 가져오기
 
                 # 기사 번호/제목/매체/날짜
@@ -163,10 +162,15 @@ def process_html(html_content):
         urls = re.findall(r'(https?://\S+)', element)  # 텍스트에서 URL 추출
         if urls:
             for url in urls:
-                print(f"원본 URL: {url}")
+                print(f"원본 URL: {url}")  # Debugging statement
                 shortened_url = shorten_url(url)
-                print(f"단축 URL: {shortened_url}\n")
-                element.replace_with(element.replace(url, shortened_url))  # URL 대체
+                print(f"단축 URL: {shortened_url}\n")  # Debugging statement
+
+                # element가 트리의 일부인지 확인
+                if element.parent is not None:  # 오류 수정: 트리 내 요소만 교체
+                    element.replace_with(element.replace(url, shortened_url))  # URL 대체
+                else:
+                    print(f"Element {element} is not part of the tree and was skipped.")
 
     return str(soup)
 
