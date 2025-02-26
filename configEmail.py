@@ -23,7 +23,7 @@ ESG_EMAIL = {
     'sender': os.getenv('EMAIL_SENDER'),
     'receivers': ['asaac.corp@gmail.com', 'asaacco@naver.com'],
     'bcc': esg_get_email_list(),
-    #'bcc': ['junheon.lee@kakao.com', 'asaac.corp@gmail.com', 'asaacco@naver.com'],
+    #'bcc': ['junheon.lee@kakao.com', 'jxli917@naver.com'],
     'password': os.getenv('EMAIL_PASSWORD')  # 환경변수로부터 비밀번호를 가져옴
 }
 

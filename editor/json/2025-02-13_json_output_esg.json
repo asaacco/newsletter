@@ -1,0 +1,78 @@
+{
+    "ESG_소식": [
+        {
+            "id": 1,
+            "title": "StormFisher Hydrogen, 청정 연료 생산을 위해 5천만 달러 투자 유치",
+            "media_name": "ESG Today",
+            "link": "https://www.esgtoday.com/stormfisher-hydrogen-raises-50-million-to-produce-clean-fuels-for-hard-to-abate-sectors/?utm_source=rss&utm_medium=rss&utm_campaign=stormfisher-hydrogen-raises-50-million-to-produce-clean-fuels-for-hard-to-abate-sectors",
+            "additional_source": null,
+            "new_summary_with_insight": "StormFisher Hydrogen은 청정 연료 생산을 가속화하기 위해 Hy24의 클린 수소 인프라 펀드로부터 5천만 달러를 투자받았습니다. 전문가들은 이 투자가 북미의 탈탄소화 목표를 달성하는 데 기여할 것으로 보고 있습니다. 이 회사는 전기 분해 기술을 통해 녹색 수소를 생산하고 이를 청정 연료로 전환할 계획을 가지고 있습니다.",
+            "date": "2025-02-12"
+        },
+        {
+            "id": 2,
+            "title": "컬럼비아 대학교, 기후 금융 석사 학위 개설",
+            "media_name": "ESG Today",
+            "link": "https://www.esgtoday.com/columbia-launches-masters-degree-in-climate-finance/?utm_source=rss&utm_medium=rss&utm_campaign=columbia-launches-masters-degree-in-climate-finance",
+            "additional_source": null,
+            "new_summary_with_insight": "컬럼비아 대학교가 미국 최초로 기후 금융 석사 과정을 개설하여 지속 가능성 관련 기술을 갖춘 전문가 양성에 나섭니다. 전문가들은 이 프로그램이 기후 변화로 인한 금융 리스크와 기회를 이해하는 데 필수적인 역할을 할 것이라고 예측합니다. 프로그램은 기후 과학과 금융을 결합한 학문적 융합을 통해 기후 위기에 대응하는 혁신적 솔루션을 제공합니다.",
+            "date": "2025-02-12"
+        },
+        {
+            "id": 3,
+            "title": "Ecologi, Net Zero Now 인수로 탄소 측정 확장",
+            "media_name": "ESG News",
+            "link": "https://esgnews.com/ecologi-acquires-net-zero-now-to-expand-sector-specific-carbon-measurement/?utm_source=rss&utm_medium=rss&utm_campaign=ecologi-acquires-net-zero-now-to-expand-sector-specific-carbon-measurement",
+            "additional_source": null,
+            "new_summary_with_insight": "영국의 기후 행동 플랫폼 Ecologi가 Net Zero Now를 인수하며, 부문별 탄소 측정과 감소 전략을 통합한 솔루션을 제공합니다. 전문가들은 이 통합이 기업들이 넷 제로 목표를 달성하는 데 필요한 정확한 지침과 도구를 제공할 것으로 평가하고 있습니다. 이 합병으로 Ecologi는 탄소 배출 감소를 위한 새로운 리더십을 확보하게 됩니다.",
+            "date": "2025-02-12"
+        },
+        {
+            "id": 4,
+            "title": "유럽연합, 기후 프로젝트 자금 마련 위해 50억 유로 녹색 채권 발행",
+            "media_name": "ESG News",
+            "link": "https://esgnews.com/eu-raises-e5-billion-in-nextgenerationeu-green-bonds-to-fund-climate-projects/?utm_source=rss&utm_medium=rss&utm_campaign=eu-raises-e5-billion-in-nextgenerationeu-green-bonds-to-fund-climate-projects",
+            "additional_source": null,
+            "new_summary_with_insight": "유럽연합이 넥스트제너레이션EU 기금 마련을 위해 50억 유로의 녹색 채권을 발행했습니다. 전문가들은 이 자금이 회원국의 회복 및 탄력성 계획 하에 기후 프로젝트를 지원하는 데 사용될 것이라고 분석합니다. 이 자금 조달은 투자자들의 높은 관심을 받으며 유럽의 녹색 전환에 중요한 역할을 할 것으로 기대됩니다.",
+            "date": "2025-02-12"
+        }
+    ],
+    "AI_소식": [
+        {
+            "id": 1,
+            "title": "네이버와 카카오, AI 고도화로 전략 강화",
+            "media_name": "에너지경제",
+            "link": "https://www.ekn.kr/web/view.php?key=20250213026475594",
+            "additional_source": null,
+            "new_summary_with_insight": "네이버와 카카오는 AI 사업을 강화하며 새로운 도약을 준비하고 있습니다. 전문가들은 두 기업이 각각의 기술과 인프라를 활용해 AI 분야에서 경쟁력을 높일 것으로 보고 있습니다. 이는 국내 AI 산업의 성장 촉진에 기여할 것으로 예상됩니다.",
+            "date": "2025-02-13"
+        },
+        {
+            "id": 2,
+            "title": "카카오, 오픈AI와 협업해 AI 비서 공개 예정",
+            "media_name": "에너지경제",
+            "link": "https://www.ekn.kr/web/view.php?key=20250213027275323",
+            "additional_source": null,
+            "new_summary_with_insight": "카카오는 오픈AI와 협업하여 개발 중인 AI 비서 '카나나'를 올해 내에 공개할 계획입니다. 전문가들은 이 협업이 AI 기술 발전에 중요한 전환점이 될 것으로 보고 있습니다. 이번 프로젝트는 카카오의 AI 사업 확장에 기여할 것으로 기대됩니다.",
+            "date": "2025-02-13"
+        },
+        {
+            "id": 3,
+            "title": "LG CNS와 델, AI 동맹 구축",
+            "media_name": "에너지경제",
+            "link": "https://www.ekn.kr/web/view.php?key=20250213029285288",
+            "additional_source": null,
+            "new_summary_with_insight": "LG CNS와 델 테크놀로지스가 AI 인프라 역량 강화를 위해 협력 체계를 구축했습니다. 전문가들은 이 협력이 국내외 AI 사업 생태계 확장에 기여할 것으로 보고 있습니다. 양사는 협력을 통해 AI 기술의 다양한 산업 적용을 모색할 계획입니다.",
+            "date": "2025-02-13"
+        },
+        {
+            "id": 4,
+            "title": "SK텔레콤, AI 사업 수익화 가능성 증명",
+            "media_name": "머니투데이",
+            "link": "http://news.mt.co.kr/mtview.php?no=2025021308270779443",
+            "additional_source": null,
+            "new_summary_with_insight": "SK텔레콤이 AI 관련 사업의 성장세를 통해 수익화 가능성을 증명하고 있습니다. 전문가들은 AI 클라우드와 컨택센터 등 핵심 사업의 성장이 주목할 만하다고 평가합니다. 이는 AI 산업의 지속적인 발전을 이끄는 중요한 요소로 작용할 것입니다.",
+            "date": "2025-02-13"
+        }
+    ]
+}
